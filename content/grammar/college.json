@@ -1,0 +1,431 @@
+{
+  "band": "college",
+  "bandLabel": "大学英语",
+  "bandLabelEn": "College / CET",
+  "topics": [
+    {
+      "id": "g1",
+      "title": "虚拟语气（进阶）",
+      "titleEn": "Advanced Subjunctive Mood",
+      "summary": "虚拟语气用来表达与事实相反、难以实现的假设，以及建议、要求、必要等主观语气。",
+      "sections": [
+        {
+          "heading": "条件句的三种时态错位",
+          "body": "虚拟条件句的核心是「时态退后一格」表达非真实。\n1) 与现在相反：If + 主语 + 过去式（be 用 were），主句 would/could/might + 动词原形。\n2) 与过去相反：If + 主语 + had done，主句 would/could/might + have done。\n3) 与将来相反（可能性极小）：If + 主语 + were to do / should do，主句 would + 动词原形。"
+        },
+        {
+          "heading": "混合条件与虚拟用法",
+          "body": "条件与结果可分属不同时间，称混合条件句。\n常见：过去的条件 + 现在的结果，如 If + had done（过去），would do（现在）。\n其他虚拟结构：wish / if only（但愿）、would rather（宁愿）、as if / as though（仿佛）后接相应虚拟时态；it is (high) time + 过去式（早该……）。"
+        },
+        {
+          "heading": "建议、要求类的（should）虚拟",
+          "body": "在 suggest, demand, insist, require, recommend, propose 等动词及其名词、以及 It is essential/necessary/important that... 句型的从句中，谓语用「(should) + 动词原形」，should 常省略，单复数和时态均不变。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Had the committee anticipated the funding shortfall, it would have allocated resources more prudently.",
+          "zh": "假如委员会预见到资金短缺，它本会更审慎地分配资源。",
+          "note": "与过去相反；省略 if 后将 had 提前构成倒装条件句。"
+        },
+        {
+          "en": "If the data were more reliable, the conclusions drawn from this study would carry greater weight.",
+          "zh": "如果数据更可靠，本研究得出的结论将更有分量。",
+          "note": "与现在相反；be 动词统一用 were。"
+        },
+        {
+          "en": "Were the experiment to be repeated under identical conditions, the same anomaly might emerge.",
+          "zh": "倘若在相同条件下重做该实验，同样的反常现象可能会再次出现。",
+          "note": "were to 表示对将来可能性极小的假设，省略 if 倒装。"
+        },
+        {
+          "en": "The reviewers insisted that the methodology section be substantially revised before publication.",
+          "zh": "审稿人坚持要求方法部分在发表前作大幅修改。",
+          "note": "insist 引导的从句用 (should) be，省略 should。"
+        },
+        {
+          "en": "It is high time that universities reconsidered their reliance on standardized testing.",
+          "zh": "大学早该重新审视它们对标准化考试的依赖了。",
+          "note": "it is high time + 过去式，表示「早就该」的虚拟语气。"
+        }
+      ],
+      "tips": [
+        "判断虚拟，先问「与事实相反吗」；相反就把时态整体退后一格。",
+        "be 动词在虚拟条件句里一律用 were，包括 I/he/she/it。",
+        "suggest 表「暗示、表明」时用陈述语气，表「建议」时才用 (should) + 原形。",
+        "省略 if 时把 had / were / should 提到句首构成倒装，正式书面语常见。"
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "倒装句",
+      "titleEn": "Inversion",
+      "summary": "倒装是把助动词或谓语提到主语之前，用于强调、衔接或满足某些句型的固定要求。",
+      "sections": [
+        {
+          "heading": "完全倒装与部分倒装",
+          "body": "完全倒装：整个谓语动词移到主语前，多见于 here/there、地点状语开头的存在句，如 Here comes the bus。\n部分倒装：只把助动词 / 情态动词 / be 提前，主语其后，是学术写作最常用的倒装形式：助动词 + 主语 + 主要动词。"
+        },
+        {
+          "heading": "否定或半否定词置于句首",
+          "body": "当 never, seldom, hardly, scarcely, rarely, not only, no sooner, little, nowhere, in no way, under no circumstances, not until 等否定 / 半否定词或短语位于句首时，主句必须部分倒装。\n常用关联结构：Hardly... when...；No sooner... than...；Not only... but also...。"
+        },
+        {
+          "heading": "only 状语、so/such 及虚拟省略 if 的倒装",
+          "body": "1) Only + 状语（副词 / 介词短语 / 从句）置于句首时主句倒装：Only then did we realize...。\n2) so + 形容词 / such + 名词 置于句首表强调时倒装：So vital is the issue that...。\n3) 虚拟条件句省略 if，将 had / were / should 提前，详见虚拟语气专题。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Not only does this approach reduce costs, but it also enhances the reliability of the results.",
+          "zh": "这一方法不仅降低了成本，还提高了结果的可靠性。",
+          "note": "Not only 置于句首，部分倒装用 does + 主语 + 动词原形。"
+        },
+        {
+          "en": "Hardly had the lecture begun when the projector malfunctioned.",
+          "zh": "讲座刚一开始，投影仪就出了故障。",
+          "note": "Hardly... when... 句型，主句用过去完成时倒装。"
+        },
+        {
+          "en": "Under no circumstances should researchers fabricate experimental data.",
+          "zh": "在任何情况下，研究者都不得伪造实验数据。",
+          "note": "否定短语置于句首引发部分倒装。"
+        },
+        {
+          "en": "Only after extensive peer review was the manuscript accepted for publication.",
+          "zh": "只有在经过广泛的同行评审之后，该稿件才被接受发表。",
+          "note": "Only + 状语置于句首，主句倒装 was + 主语。"
+        },
+        {
+          "en": "So compelling was the evidence that the opposing hypothesis was promptly abandoned.",
+          "zh": "证据如此令人信服，以致对立假设很快被放弃。",
+          "note": "So + 形容词置于句首表强调，引发倒装。"
+        }
+      ],
+      "tips": [
+        "部分倒装只把助动词提前，行为动词仍留在主语后并保持原形。",
+        "判断是否倒装的关键是「否定/限定词是否真的位于句首」，only 后接宾语时不倒装。",
+        "Not only 在句首要倒装，但放在句中（连接两个动词）时不倒装。",
+        "倒装是正式书面语的衔接利器，但不宜在一篇文章中频繁堆砌。"
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "强调句",
+      "titleEn": "Emphatic (Cleft) Sentences",
+      "summary": "强调句通过特定句型把句子某一成分单独突出，使读者注意焦点信息。",
+      "sections": [
+        {
+          "heading": "It is/was ... that ... 分裂句",
+          "body": "基本结构：It is / was + 被强调成分 + that / who + 句子其余部分。\n可强调主语、宾语、状语等，但一般不强调谓语动词。\n被强调的是人时，that 可换成 who；强调时间或地点时仍多用 that（不用 when / where）。"
+        },
+        {
+          "heading": "判断强调句的方法与时态呼应",
+          "body": "去掉 It is/was 与 that 后，剩余部分仍能组成完整句子，即为强调句（区别于形式主语 it 引导的从句）。\n时态呼应：原句是现在 / 将来用 It is，原句是过去用 It was。\n疑问与否定：Is it ... that ...? / It is not ... that ...。"
+        },
+        {
+          "heading": "其他强调手段",
+          "body": "1) 助动词 do / does / did + 动词原形 强调谓语：I do appreciate your help。\n2) what 引导的拟分裂句（wh-cleft）：What matters most is...。\n3) 副词 indeed, in fact, by no means, the very + 名词 等强调用语。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It was the unexpected variable, rather than human error, that distorted the final outcome.",
+          "zh": "正是那个意料之外的变量，而非人为失误，扭曲了最终结果。",
+          "note": "It was ... that ... 强调主语 the unexpected variable。"
+        },
+        {
+          "en": "It is precisely in cross-disciplinary research that the most original ideas often arise.",
+          "zh": "恰恰是在跨学科研究中，最具原创性的想法往往得以产生。",
+          "note": "强调地点状语，仍用 that 而非 where。"
+        },
+        {
+          "en": "What this theory fails to account for is the influence of cultural context.",
+          "zh": "这一理论未能解释的，是文化语境的影响。",
+          "note": "what 引导的拟分裂句，把焦点后置以示强调。"
+        },
+        {
+          "en": "The findings do suggest a correlation, though causation remains unproven.",
+          "zh": "这些发现确实表明存在相关性，尽管因果关系尚未证实。",
+          "note": "do + 动词原形强调谓语，语气更肯定。"
+        },
+        {
+          "en": "It was not until the nineteenth century that the germ theory of disease gained acceptance.",
+          "zh": "直到十九世纪，疾病的细菌学说才得到接受。",
+          "note": "It was not until ... that ... 强调时间状语，从句用肯定形式。"
+        }
+      ],
+      "tips": [
+        "强调句去掉 It is/was 和 that 后仍是完整句子，这是它与主语从句的判别法。",
+        "强调 not until 时，that 之后的动词要用肯定形式，不再重复 not。",
+        "do/does/did 强调谓语后，后接的动词一律用原形。",
+        "学术写作中拟分裂句（What... is...）能自然地把新信息后置、突出焦点。"
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "同位语从句与复杂定语从句",
+      "titleEn": "Appositive & Complex Relative Clauses",
+      "summary": "同位语从句对抽象名词作内容说明，定语从句对名词作限定或补充，二者是学术长句的骨架。",
+      "sections": [
+        {
+          "heading": "同位语从句与定语从句的区别",
+          "body": "同位语从句解释前面抽象名词（fact, idea, belief, conclusion, evidence, possibility 等）的具体内容，that 仅作连接词、不充当句子成分，从句结构完整。\n定语从句修饰先行词，关系词 that / which / who 在从句中充当主语、宾语或状语，去掉后从句成分残缺。"
+        },
+        {
+          "heading": "复杂定语从句：介词前置与 of which/whom",
+          "body": "正式书面语常把介词提到关系代词之前：the theory on which the model is based。\n表所属或部分整体时用 of which / of whom：a database, the accuracy of which is questionable。\nwhose 可指人或物，引导限定性或非限定性从句。"
+        },
+        {
+          "heading": "限定性与非限定性、嵌套从句",
+          "body": "限定性从句不可省略、不用逗号，that/which 皆可；非限定性从句用逗号隔开、补充说明，只能用 which / who / whose，不能用 that。\n学术句中常出现从句套从句的嵌套结构，写作时需理清每个关系词指向的先行词，避免歧义。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The conclusion that the policy had failed was supported by a decade of empirical data.",
+          "zh": "「该政策已经失败」这一结论得到了十年实证数据的支持。",
+          "note": "that 引导同位语从句，说明 conclusion 的内容，从句完整。"
+        },
+        {
+          "en": "The mechanism by which enzymes accelerate reactions remains a focus of biochemical inquiry.",
+          "zh": "酶加速反应所凭借的机制仍是生物化学研究的焦点。",
+          "note": "介词 by 前置于关系代词 which，定语从句中 by which 作方式状语。"
+        },
+        {
+          "en": "The researchers consulted several archives, the majority of which had never been digitized.",
+          "zh": "研究者查阅了若干档案库，其中大多数从未被数字化。",
+          "note": "of which 表部分整体，引导非限定性定语从句。"
+        },
+        {
+          "en": "Scholars whose work spans multiple disciplines often face challenges in securing funding.",
+          "zh": "研究横跨多个学科的学者，往往在获取资助方面面临困难。",
+          "note": "whose 引导限定性定语从句，表所属关系。"
+        },
+        {
+          "en": "There is growing evidence that early intervention, which targets at-risk groups, yields lasting benefits.",
+          "zh": "越来越多的证据表明，针对高危群体的早期干预能带来持久的益处。",
+          "note": "同位语从句（evidence that...）内嵌非限定性定语从句（which...）。"
+        }
+      ],
+      "tips": [
+        "判别同位语从句还是定语从句：that 在从句里有无成分——无成分是同位语，有成分是定语。",
+        "非限定性定语从句不能用 that，且必须用逗号与主句隔开。",
+        "介词 + which / whom 前置是正式语体特征，但要确保介词搭配正确。",
+        "写嵌套从句时逐层标出每个关系词的先行词，可有效避免修饰歧义。"
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "独立主格结构",
+      "titleEn": "Absolute Construction",
+      "summary": "独立主格由名词/代词加上非谓语动词或其他成分构成，对主句作伴随、原因、条件或方式等补充说明。",
+      "sections": [
+        {
+          "heading": "基本结构与构成",
+          "body": "独立主格有自己的逻辑主语，与主句主语不同，整体作状语，不能单独成句。\n常见形式：名词/代词 + 现在分词（主动、进行）；名词/代词 + 过去分词（被动、完成）；名词/代词 + 形容词 / 副词 / 介词短语 / 不定式。"
+        },
+        {
+          "heading": "with 复合结构",
+          "body": "with / without + 宾语 + 宾语补足语（分词、形容词、副词、介词短语、不定式），是独立主格的常见变体，多表伴随状况或方式。\n结构：with + 名词 + doing / done / adj. / prep. phrase。"
+        },
+        {
+          "heading": "语义与使用场合",
+          "body": "独立主格可表时间、原因、条件、伴随、方式、结果等，含义靠语境判断。\n它使句子简洁紧凑，常见于书面与学术语体；口语中较少使用。注意逻辑主语与分词的主动 / 被动关系要一致。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "All variables being equal, the treatment group consistently outperformed the control group.",
+          "zh": "在所有变量相同的情况下，实验组始终优于对照组。",
+          "note": "名词 + 现在分词 being 构成独立主格，表条件。"
+        },
+        {
+          "en": "The experiment completed, the team proceeded to analyze the accumulated data.",
+          "zh": "实验完成后，团队着手分析积累的数据。",
+          "note": "名词 + 过去分词，表被动与时间先后。"
+        },
+        {
+          "en": "Funding secured, the institute embarked on a five-year longitudinal study.",
+          "zh": "资金落实之后，研究所启动了一项为期五年的纵向研究。",
+          "note": "过去分词 secured 表被动完成，逻辑主语 funding 与主句不同。"
+        },
+        {
+          "en": "The lecturer spoke at length, with numerous diagrams projected on the screen.",
+          "zh": "讲师详细讲解，屏幕上同时投出大量图表。",
+          "note": "with + 名词 + 过去分词的复合结构，表伴随状况。"
+        },
+        {
+          "en": "Weather permitting, the field survey will commence at dawn tomorrow.",
+          "zh": "天气允许的话，野外调查将于明天黎明开始。",
+          "note": "固定独立主格 weather permitting，表条件。"
+        }
+      ],
+      "tips": [
+        "独立主格有自己的主语，区别于分词作状语（后者与主句主语一致）。",
+        "逻辑主语与动作是主动关系用现在分词，被动关系用过去分词。",
+        "being 在「名词 + adj./prep.」前常可省略，使结构更简练。",
+        "weather permitting, other things being equal 等是可直接套用的固定独立主格。"
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "时态呼应与一致",
+      "titleEn": "Sequence of Tenses & Agreement",
+      "summary": "时态呼应规定从句时态随主句调整，主谓一致规定谓语在人称和数上与主语保持一致。",
+      "sections": [
+        {
+          "heading": "主从句时态呼应",
+          "body": "主句为现在 / 将来时，从句按实际意义选用任何时态。\n主句为过去时，宾语从句须相应「后移」：现在→过去，过去→过去完成，将来→过去将来（would）。\n例外：从句陈述客观真理 / 普遍规律时仍用一般现在时。"
+        },
+        {
+          "heading": "主谓一致：意义、就近与并列",
+          "body": "1) 语法一致：谓语与主语单复数一致。\n2) 意义一致：集体名词作整体用单数、强调成员用复数；the number of 用单数，a number of 用复数。\n3) 就近一致：either...or, neither...nor, not only...but also 连接主语时谓语与最近的主语一致。\n4) and 连接两个主语用复数，但指同一人 / 物或不可分整体时用单数。"
+        },
+        {
+          "heading": "特殊主语的一致问题",
+          "body": "不定式、动名词、从句作主语视为单数。\n表语提示的「分数 / 百分比 + of + 名词」按 of 后名词定单复数。\nnone, each, every, no one, somebody 等不定代词作主语常用单数；with, together with, as well as 连接的成分不影响主语数。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The survey indicated that participants had underestimated the risks involved.",
+          "zh": "调查表明参与者低估了所涉及的风险。",
+          "note": "主句过去时，从句动作更早用过去完成时，体现时态后移。"
+        },
+        {
+          "en": "Galileo demonstrated that the Earth revolves around the Sun.",
+          "zh": "伽利略证明了地球绕太阳运行。",
+          "note": "从句为客观真理，主句过去时也保持一般现在时。"
+        },
+        {
+          "en": "A number of studies have challenged this long-standing assumption.",
+          "zh": "若干研究对这一长期存在的假设提出了挑战。",
+          "note": "a number of + 复数名词作主语，谓语用复数 have。"
+        },
+        {
+          "en": "Neither the author nor the reviewers were aware of the discrepancy.",
+          "zh": "无论是作者还是审稿人，都没有察觉到这一出入。",
+          "note": "neither...nor 连接主语，谓语就近与 reviewers 一致用 were。"
+        },
+        {
+          "en": "Analyzing large datasets requires both computational power and statistical expertise.",
+          "zh": "分析大型数据集既需要计算能力，也需要统计专长。",
+          "note": "动名词短语作主语视为单数，谓语用 requires。"
+        }
+      ],
+      "tips": [
+        "主句一旦过去，宾语从句时态整体后移，但客观真理除外。",
+        "the number of 用单数，a number of 用复数，两者别混。",
+        "as well as / together with / along with 连接的名词不改变主语的数。",
+        "动名词、不定式、从句作主语一律视为单数。"
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "学术连接与衔接",
+      "titleEn": "Cohesion & Linking (Academic)",
+      "summary": "衔接手段通过连接词、指代和句式安排，使段落逻辑连贯、信息流畅推进。",
+      "sections": [
+        {
+          "heading": "逻辑连接词的分类",
+          "body": "按逻辑关系选用过渡词：\n递进/补充：moreover, furthermore, in addition, what is more。\n对比/让步：however, nevertheless, conversely, by contrast, admittedly。\n因果：therefore, consequently, as a result, thus, hence。\n举例/解释：for instance, namely, that is, in other words。\n总结：in conclusion, to sum up, overall, on the whole。"
+        },
+        {
+          "heading": "指代与替代衔接",
+          "body": "用代词（this, these, such, the former / the latter）和替代词（one, do so, the same）回指前文，避免重复。\nthis / these 后常加概括名词（this approach, these findings）形成「概括名词回指」，是学术衔接的高级手段，可使指代更明确。"
+        },
+        {
+          "heading": "信息结构与主位推进",
+          "body": "遵循「已知信息在前、新信息在后」原则，使句子衔接自然。\n主位推进常见模式：①主位同一（围绕同一主题展开）；②主位链（前句述位作后句主位）。\n善用被动语态、there be、拟分裂句调整信息顺序，让旧信息承上、新信息启下。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The initial model proved inadequate; consequently, the researchers refined its underlying assumptions.",
+          "zh": "最初的模型被证明不够充分；因此，研究者修正了其基本假设。",
+          "note": "consequently 表因果，前后用分号衔接两个独立分句。"
+        },
+        {
+          "en": "Some scholars emphasize economic factors; others, by contrast, prioritize cultural dynamics.",
+          "zh": "一些学者强调经济因素；另一些则相反，更重视文化动态。",
+          "note": "by contrast 表对比，others 替代回指前文的 scholars。"
+        },
+        {
+          "en": "This interpretation, however, overlooks several confounding variables.",
+          "zh": "然而，这种解释忽视了若干混杂变量。",
+          "note": "this + 概括名词 interpretation 回指前文，however 插入表转折。"
+        },
+        {
+          "en": "Two approaches were tested; the former yielded faster results, whereas the latter proved more accurate.",
+          "zh": "两种方法都经过检验；前者出结果更快，而后者更为精确。",
+          "note": "the former / the latter 分别回指前文两项，whereas 表对比。"
+        },
+        {
+          "en": "The data were collected over five years; such longitudinal evidence strengthens the argument considerably.",
+          "zh": "数据是在五年间收集的；这种纵向证据极大地增强了论点。",
+          "note": "such + 名词回指前句内容，实现概括名词衔接。"
+        }
+      ],
+      "tips": [
+        "however, therefore 等是副词，不能像 and 那样直接连接两个分句，须用分号或句号。",
+        "this / these 后加概括名词，比单独使用更明确，避免「悬空指代」。",
+        "连接词贵在准确，不要为了显衔接而堆砌，逻辑关系本身才是核心。",
+        "把旧信息放句首、新信息放句尾，段落读起来更连贯。"
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "常见错误与中式英语",
+      "titleEn": "Common Errors & Chinglish",
+      "summary": "本专题归纳中国学生在词汇搭配、句法结构和逻辑表达上的高频错误及其修正方法。",
+      "sections": [
+        {
+          "heading": "冗余与范畴词",
+          "body": "中式英语常添加多余范畴词或重复语义。\n如 the development work（→ the development）、in the field of economy aspect（→ in economics）、return back（→ return）。\n写作时删去与名词语义重复的 work, problem, situation, aspect 等空词，使表达精炼。"
+        },
+        {
+          "heading": "句法结构错误",
+          "body": "1) 双重连词：Although... but...（去掉 but）；Because... so...（保留其一）。\n2) 无主语句直译：Should pay attention to...（→ One should... / Attention should be paid to...）。\n3) 逗号粘连两个独立句（comma splice）：用句号、分号或连词分隔。\n4) 悬垂修饰语：分词的逻辑主语应与主句主语一致。"
+        },
+        {
+          "heading": "词语搭配与语义对应",
+          "body": "避免逐字直译造成的搭配错误。\nlearn knowledge（→ acquire / gain knowledge）；open the light（→ turn on the light）；very agree（→ strongly agree）；the price is expensive（→ the price is high / the goods are expensive）。\n注意可数 / 不可数、词性误用与抽象名词搭配。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Although the theory is elegant, it lacks empirical support.",
+          "zh": "尽管该理论简洁优雅，却缺乏实证支持。",
+          "note": "用 although 就不再用 but；中式英语易写成 Although... but...。"
+        },
+        {
+          "en": "Students should acquire knowledge through critical reflection, not mere memorization.",
+          "zh": "学生应通过批判性反思获取知识，而非单纯记忆。",
+          "note": "知识与 acquire / gain 搭配，learn knowledge 是中式英语。"
+        },
+        {
+          "en": "Attention should be paid to the long-term consequences of this policy.",
+          "zh": "应当关注这一政策的长期后果。",
+          "note": "用被动或补主语，避免无主语句 Should pay attention to...。"
+        },
+        {
+          "en": "The cost of imported equipment is high, which strains the research budget.",
+          "zh": "进口设备的成本很高，这给科研预算带来压力。",
+          "note": "价格用 high/low，不用 expensive/cheap 修饰 cost/price。"
+        },
+        {
+          "en": "Having reviewed the literature, the authors identified a significant research gap.",
+          "zh": "在回顾文献之后，作者们发现了一个重要的研究空白。",
+          "note": "分词逻辑主语 the authors 与主句一致，避免悬垂修饰语。"
+        }
+      ],
+      "tips": [
+        "写完检查：although/though 与 but、because 与 so 不可同句并用。",
+        "删掉与名词重复的范畴词（work, problem, aspect, situation）让句子更精炼。",
+        "英语句子必须有主语，无主语的中文句要补主语或改被动。",
+        "记搭配比记单词更重要：高 price 用 high，开灯用 turn on，获取知识用 acquire。"
+      ]
+    }
+  ]
+}

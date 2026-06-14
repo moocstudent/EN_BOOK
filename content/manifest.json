@@ -1,0 +1,39 @@
+{
+  "title": "英语学习书",
+  "titleEn": "EN_BOOK",
+  "bands": [
+    {
+      "key": "junior",
+      "label": "初中英语",
+      "labelEn": "Junior High",
+      "level": "CEFR A1–A2",
+      "color": "#2f8f5b",
+      "color2": "#1f6e44",
+      "desc": "基础词汇与核心语法，打好地基",
+      "vocabCount": 120,
+      "grammarCount": 8
+    },
+    {
+      "key": "senior",
+      "label": "高中英语",
+      "labelEn": "Senior High",
+      "level": "CEFR B1–B2",
+      "color": "#2f6db0",
+      "color2": "#1f5290",
+      "desc": "进阶词汇与复杂句法，冲刺高考",
+      "vocabCount": 120,
+      "grammarCount": 8
+    },
+    {
+      "key": "college",
+      "label": "大学英语",
+      "labelEn": "College / CET",
+      "level": "CEFR B2–C1",
+      "color": "#7a4bb0",
+      "color2": "#5a3690",
+      "desc": "学术与四六级词汇，高阶语法",
+      "vocabCount": 120,
+      "grammarCount": 8
+    }
+  ]
+}

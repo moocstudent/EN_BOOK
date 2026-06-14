@@ -1,0 +1,423 @@
+{
+  "band": "junior",
+  "bandLabel": "初中英语",
+  "bandLabelEn": "Junior High",
+  "topics": [
+    {
+      "id": "g1",
+      "title": "一般现在时",
+      "titleEn": "Simple Present Tense",
+      "summary": "表示经常性、习惯性的动作，以及客观事实和真理。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "一般现在时主要用来表达三种情况：\n1. 经常或反复发生的动作（常和 always, usually, often, sometimes, every day 连用）。\n2. 现在的状态、习惯或爱好。\n3. 永恒的客观事实或真理，如「太阳从东方升起」。"
+        },
+        {
+          "heading": "结构",
+          "body": "肯定句结构：主语 + 动词原形（+ 其他）。\n当主语是第三人称单数（he, she, it, 单个人名/物）时，动词要加 -s 或 -es：\nI / You / We / They + work\nHe / She / It + works\n变化规则：一般直接加 -s（runs）；以 s, x, ch, sh, o 结尾加 -es（goes, watches）；辅音字母 + y 结尾，变 y 为 i 再加 -es（study → studies）。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定句：主语 + don't / doesn't + 动词原形。\n一般疑问句：Do / Does + 主语 + 动词原形 ？\n注意：用了 doesn't 或 Does 之后，主句动词必须变回原形。\n例如：He doesn't like fish.（不是 doesn't likes）"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I get up at seven every morning.",
+          "zh": "我每天早上七点起床。",
+          "note": "every morning 表示习惯，主语 I 用动词原形 get。"
+        },
+        {
+          "en": "She goes to school by bus.",
+          "zh": "她坐公交车去上学。",
+          "note": "主语 she 是第三人称单数，go 加 -es 变 goes。"
+        },
+        {
+          "en": "The sun rises in the east.",
+          "zh": "太阳从东方升起。",
+          "note": "客观真理用一般现在时，rise 加 -s。"
+        },
+        {
+          "en": "He doesn't like coffee.",
+          "zh": "他不喜欢咖啡。",
+          "note": "否定用 doesn't，后面动词还原为 like。"
+        },
+        {
+          "en": "Do you play basketball?",
+          "zh": "你打篮球吗？",
+          "note": "一般疑问句用 Do 开头，动词用原形 play。"
+        }
+      ],
+      "tips": [
+        "第三人称单数动词加 -s/-es 是最常考的易错点，写句子前先看主语。",
+        "助动词 don't/doesn't 后面的动词永远用原形，不要再加 -s。",
+        "记口诀：「主单（第三人称单数）动加 s，问否用 do/does」。"
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "一般过去时",
+      "titleEn": "Simple Past Tense",
+      "summary": "表示过去某个时间发生的动作或存在的状态。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "一般过去时表示过去发生并已经结束的动作或状态，常和表示过去的时间状语连用，如 yesterday, last week, two days ago, in 2010, just now。"
+        },
+        {
+          "heading": "结构",
+          "body": "肯定句结构：主语 + 动词过去式（+ 其他）。\n规则动词在词尾加 -ed：work → worked；以 e 结尾只加 -d：like → liked；辅音 + y 结尾变 y 为 i 加 -ed：study → studied；重读闭音节双写末尾辅音再加 -ed：stop → stopped。\n不规则动词需单独记忆：go → went, see → saw, have → had, do → did, is/am → was, are → were。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定句：主语 + didn't + 动词原形。\n一般疑问句：Did + 主语 + 动词原形 ？\n注意：用了 didn't 或 Did，后面的动词要变回原形。\nbe 动词（was/were）的否定和疑问不用 did：否定为 was not (wasn't) / were not (weren't)；疑问把 was/were 提到句首。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I watched TV last night.",
+          "zh": "我昨晚看了电视。",
+          "note": "规则动词 watch 加 -ed，last night 是过去时间标志。"
+        },
+        {
+          "en": "He went to Beijing two years ago.",
+          "zh": "他两年前去了北京。",
+          "note": "go 是不规则动词，过去式是 went。"
+        },
+        {
+          "en": "She was happy yesterday.",
+          "zh": "她昨天很开心。",
+          "note": "be 动词过去式：单数主语用 was。"
+        },
+        {
+          "en": "We didn't see the film.",
+          "zh": "我们没看那部电影。",
+          "note": "否定用 didn't，see 还原为原形。"
+        },
+        {
+          "en": "Did you finish your homework?",
+          "zh": "你写完作业了吗？",
+          "note": "疑问句用 Did 开头，动词用原形 finish。"
+        }
+      ],
+      "tips": [
+        "看到 yesterday、last…、…ago、just now 等时间词，多半要用过去时。",
+        "didn't 和 Did 后面的动词一律用原形，这是高频失分点。",
+        "不规则动词（went, saw, had, did 等）要专门背，没有规律。"
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "现在进行时",
+      "titleEn": "Present Continuous Tense",
+      "summary": "表示此刻正在进行或现阶段正在做的动作。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "现在进行时表示：\n1. 说话此刻正在发生的动作（常和 now, look, listen 连用）。\n2. 现阶段一直在进行的事（如 these days）。"
+        },
+        {
+          "heading": "结构",
+          "body": "结构：主语 + am / is / are + 动词-ing（+ 其他）。\nbe 动词的选择：I 用 am；he/she/it 及单数用 is；you/we/they 及复数用 are。\n动词加 -ing 规则：一般直接加（playing）；以不发音 e 结尾去 e 加 -ing（make → making）；重读闭音节双写末尾辅音加 -ing（run → running, swim → swimming）。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定句：主语 + am/is/are + not + 动词-ing。\n一般疑问句：把 am/is/are 提到句首：Am/Is/Are + 主语 + 动词-ing ？\n肯定回答：Yes, 主语 + am/is/are.；否定回答：No, 主语 + am/is/are + not."
+        }
+      ],
+      "examples": [
+        {
+          "en": "I am doing my homework now.",
+          "zh": "我正在做作业。",
+          "note": "now 提示正在进行，结构 am + doing。"
+        },
+        {
+          "en": "She is reading a book.",
+          "zh": "她正在看书。",
+          "note": "主语 she 用 is，read 加 -ing。"
+        },
+        {
+          "en": "They are running on the playground.",
+          "zh": "他们正在操场上跑步。",
+          "note": "run 双写 n 再加 -ing 变 running。"
+        },
+        {
+          "en": "He isn't sleeping.",
+          "zh": "他没在睡觉。",
+          "note": "否定在 be 动词后加 not（is not = isn't）。"
+        },
+        {
+          "en": "Are you listening to me?",
+          "zh": "你在听我说话吗？",
+          "note": "疑问把 are 提到句首，动词用 -ing 形式。"
+        }
+      ],
+      "tips": [
+        "现在进行时一定有 be 动词，别只写动词-ing 漏掉 am/is/are。",
+        "记忆口诀：「be + 动词ing」，be 随主语变。",
+        "看到 now、Look!、Listen! 这些信号词，常用现在进行时。"
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "一般将来时",
+      "titleEn": "Simple Future (will / be going to)",
+      "summary": "表示将来要发生的动作或打算做的事。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "一般将来时表示将要发生的动作，常和 tomorrow, next week, soon, in the future 连用。\n两种主要表达：\n1. will + 动词原形：表示将来的事，或说话时临时的决定、预测。\n2. be going to + 动词原形：表示事先的计划、打算，或根据现状的预测。"
+        },
+        {
+          "heading": "结构",
+          "body": "will 结构：主语 + will + 动词原形。will 不随人称变化，所有主语都一样。\nbe going to 结构：主语 + am/is/are + going to + 动词原形。be 动词随主语变（I am / he is / we are going to …）。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "will 否定：主语 + won't (will not) + 动词原形。\nwill 疑问：Will + 主语 + 动词原形 ？\nbe going to 否定：主语 + am/is/are + not + going to + 动词原形。\nbe going to 疑问：把 am/is/are 提到句首：Are you going to … ？"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I will call you tomorrow.",
+          "zh": "我明天给你打电话。",
+          "note": "will 后接动词原形 call，tomorrow 是将来时间词。"
+        },
+        {
+          "en": "She is going to visit her grandma this weekend.",
+          "zh": "她这个周末打算去看望奶奶。",
+          "note": "be going to 表示计划，主语 she 用 is。"
+        },
+        {
+          "en": "It will rain soon.",
+          "zh": "马上要下雨了。",
+          "note": "will 表示对将来的预测。"
+        },
+        {
+          "en": "We won't be late.",
+          "zh": "我们不会迟到。",
+          "note": "否定用 won't（= will not）。"
+        },
+        {
+          "en": "Are you going to play football?",
+          "zh": "你打算踢足球吗？",
+          "note": "be going to 疑问句把 are 提到句首。"
+        }
+      ],
+      "tips": [
+        "will 和 be going to 后面都接动词原形，不要加 -s 或 -ing。",
+        "事先有计划用 be going to，临时决定/预测用 will。",
+        "won't 是 will not 的缩写，注意拼写。"
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "可数与不可数名词",
+      "titleEn": "Countable & Uncountable Nouns",
+      "summary": "区分能数和不能数的名词，决定单复数和量词的用法。",
+      "sections": [
+        {
+          "heading": "概念",
+          "body": "可数名词：能一个一个数的，有单数和复数，如 apple/apples, book/books。\n不可数名词：不能直接数的，没有复数形式，如 water, milk, bread, money, rice。\n不可数名词通常表示液体、材料、抽象概念等。"
+        },
+        {
+          "heading": "数量表达",
+          "body": "可数名词复数一般加 -s/-es：cat → cats, box → boxes；辅音 + y 变 y 为 i 加 -es：city → cities。\nmany 修饰可数名词复数：many books；much 修饰不可数名词：much water。\nsome / any / a lot of 既可修饰可数也可修饰不可数名词。"
+        },
+        {
+          "heading": "用量词来数",
+          "body": "不可数名词要用「数量 + 容器/单位 + of」来表示：\na glass of water 一杯水\na cup of tea 一杯茶\na piece of bread 一片面包\ntwo bottles of milk 两瓶牛奶\n这种结构里复数加在容器上（glasses, cups），名词本身不变。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I have three apples.",
+          "zh": "我有三个苹果。",
+          "note": "apple 是可数名词，复数加 -s。"
+        },
+        {
+          "en": "There is some water in the cup.",
+          "zh": "杯子里有一些水。",
+          "note": "water 是不可数名词，不能说 a water 或 waters。"
+        },
+        {
+          "en": "How many students are there?",
+          "zh": "有多少个学生？",
+          "note": "many 修饰可数名词复数 students。"
+        },
+        {
+          "en": "I'd like a cup of coffee.",
+          "zh": "我想要一杯咖啡。",
+          "note": "用 a cup of 来数不可数名词 coffee。"
+        },
+        {
+          "en": "We don't have much money.",
+          "zh": "我们没有多少钱。",
+          "note": "much 修饰不可数名词 money。"
+        }
+      ],
+      "tips": [
+        "记住常见不可数名词：water, milk, bread, rice, money, news, paper（纸）。",
+        "many 配可数、much 配不可数；提问数量用 How many / How much。",
+        "不可数名词前不能用 a/an，也不能直接加复数 -s。"
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "人称代词与物主代词",
+      "titleEn": "Personal & Possessive Pronouns",
+      "summary": "用代词代替名词，并表示「谁的」所属关系。",
+      "sections": [
+        {
+          "heading": "人称代词",
+          "body": "人称代词分主格和宾格。\n主格（作主语，放句首/动词前）：I, you, he, she, it, we, they。\n宾格（作宾语，放动词或介词后）：me, you, him, her, it, us, them。\n例如：I love her.（I 是主格作主语，her 是宾格作宾语）。"
+        },
+        {
+          "heading": "物主代词",
+          "body": "物主代词表示「谁的」，分形容词性和名词性。\n形容词性物主代词（后面必须接名词）：my, your, his, her, its, our, their。如 my book。\n名词性物主代词（单独使用，后面不接名词，相当于「物主代词 + 名词」）：mine, yours, his, hers, its, ours, theirs。如 This book is mine.（= my book）。"
+        },
+        {
+          "heading": "对照与选用",
+          "body": "一组对照便于记忆：\nI - me - my - mine\nyou - you - your - yours\nhe - him - his - his\nshe - her - her - hers\nwe - us - our - ours\nthey - them - their - theirs\n判断技巧：作主语用主格；作宾语用宾格；后面有名词用形容词性物主代词；后面没名词用名词性物主代词。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "She is my friend.",
+          "zh": "她是我的朋友。",
+          "note": "my 是形容词性物主代词，后接名词 friend。"
+        },
+        {
+          "en": "Please help me.",
+          "zh": "请帮帮我。",
+          "note": "动词 help 后用宾格 me。"
+        },
+        {
+          "en": "This pen is hers.",
+          "zh": "这支笔是她的。",
+          "note": "hers 是名词性物主代词，后面不接名词。"
+        },
+        {
+          "en": "We like them very much.",
+          "zh": "我们非常喜欢他们。",
+          "note": "We 作主语用主格，them 作宾语用宾格。"
+        },
+        {
+          "en": "Their house is bigger than ours.",
+          "zh": "他们的房子比我们的大。",
+          "note": "their 后接名词 house；ours 单独使用代替 our house。"
+        }
+      ],
+      "tips": [
+        "形容词性物主代词后必须跟名词，名词性物主代词后绝不跟名词。",
+        "句首/主语位置用主格，介词或动词后用宾格（如 to me, with us）。",
+        "注意 its（它的）和 it's（it is）不同，前者是物主代词不带撇号。"
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "形容词比较级与最高级",
+      "titleEn": "Comparatives & Superlatives",
+      "summary": "用来比较两者或三者及以上事物的程度差别。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "比较级：比较两个人或事物，常和 than 连用，意为「更…」。\n最高级：比较三者或以上，表示「最…」，前面通常加 the，后面常接 in / of 范围。"
+        },
+        {
+          "heading": "构成规则",
+          "body": "单音节和部分双音节词：\n比较级加 -er，最高级加 -est：tall → taller → tallest。\n以 e 结尾只加 -r / -st：nice → nicer → nicest。\n辅音 + y 结尾变 y 为 i：happy → happier → happiest。\n重读闭音节双写末尾辅音：big → bigger → biggest。\n多音节词用 more / most：more beautiful, most beautiful。"
+        },
+        {
+          "heading": "不规则变化",
+          "body": "有些常用词变化不规则，要专门记：\ngood / well → better → best\nbad / badly → worse → worst\nmany / much → more → most\nlittle → less → least\nfar → farther / further → farthest / furthest"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Tom is taller than Jack.",
+          "zh": "汤姆比杰克高。",
+          "note": "比较两人用比较级 taller + than。"
+        },
+        {
+          "en": "This book is more interesting than that one.",
+          "zh": "这本书比那本有趣。",
+          "note": "多音节词用 more 构成比较级。"
+        },
+        {
+          "en": "She is the tallest girl in our class.",
+          "zh": "她是我们班最高的女孩。",
+          "note": "最高级前加 the，后接 in 范围。"
+        },
+        {
+          "en": "He runs faster than me.",
+          "zh": "他跑得比我快。",
+          "note": "fast 加 -er 变比较级，than 后可用宾格 me。"
+        },
+        {
+          "en": "This is the best film of the year.",
+          "zh": "这是今年最好的电影。",
+          "note": "good 的最高级是不规则的 best，前加 the。"
+        }
+      ],
+      "tips": [
+        "比较级常配 than，最高级常配 the + 范围（in/of）。",
+        "good/bad/many 等不规则变化必须背熟，不能加 -er/-est。",
+        "多音节长词不加 -er/-est，要用 more/most。"
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "情态动词",
+      "titleEn": "Modal Verbs (can / must / should)",
+      "summary": "表示能力、必须、建议等语气，需和动词原形连用。",
+      "sections": [
+        {
+          "heading": "常见情态动词的意思",
+          "body": "can：表示能力「能、会」，或请求许可「可以」。\nmust：表示必须、一定要（语气强）。\nshould：表示应该（提建议，语气较弱）。\nmay：表示许可「可以」或可能性。"
+        },
+        {
+          "heading": "结构特点",
+          "body": "情态动词的共同特点：\n1. 后面必须接动词原形：can swim（不是 can swims / can to swim）。\n2. 没有人称和数的变化，第三人称单数也不加 -s：He can swim.\n3. 本身就能构成否定和疑问，不需要 do/does/did。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定：在情态动词后加 not。\ncannot (can't), must not (mustn't), should not (shouldn't)。\n注意：mustn't 表示「禁止、千万不要」。\n疑问：把情态动词提到句首：Can you …? / Should I …? / Must I …?\n回答 Must I …? 时，否定常用 No, you needn't.（不必）。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I can speak English.",
+          "zh": "我会说英语。",
+          "note": "can 表示能力，后接动词原形 speak。"
+        },
+        {
+          "en": "You must finish your homework first.",
+          "zh": "你必须先完成作业。",
+          "note": "must 表示必须，语气较强。"
+        },
+        {
+          "en": "You should drink more water.",
+          "zh": "你应该多喝水。",
+          "note": "should 用来提建议，意为「应该」。"
+        },
+        {
+          "en": "You mustn't play with fire.",
+          "zh": "你千万不要玩火。",
+          "note": "mustn't 表示禁止，语气很强。"
+        },
+        {
+          "en": "Can I open the window?",
+          "zh": "我可以开窗吗？",
+          "note": "can 用于请求许可，疑问句把 Can 提到句首。"
+        }
+      ],
+      "tips": [
+        "情态动词后一律接动词原形，第三人称单数也不加 -s。",
+        "must（必须）语气强，should（应该）语气弱，注意区分。",
+        "mustn't 是「禁止」不是「不必」；「不必」用 needn't 或 don't have to。"
+      ]
+    }
+  ]
+}

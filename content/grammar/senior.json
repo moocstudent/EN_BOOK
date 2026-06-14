@@ -1,0 +1,426 @@
+{
+  "band": "senior",
+  "bandLabel": "高中英语",
+  "bandLabelEn": "Senior High",
+  "topics": [
+    {
+      "id": "g1",
+      "title": "现在完成时",
+      "titleEn": "Present Perfect Tense",
+      "summary": "用来表示过去发生的动作对现在造成的影响或结果，或从过去持续到现在的状态。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "基本结构：主语 + have/has + 过去分词（done）。\n主语是第三人称单数（he/she/it）时用 has，其余用 have。\n规则动词过去分词加 -ed（work→worked）；不规则动词需单独记忆（go→gone，see→seen，write→written）。"
+        },
+        {
+          "heading": "用法",
+          "body": "1. 已完成：动作发生在过去，但强调对现在的结果或影响。\n2. 未完成（延续）：动作或状态从过去持续到现在，常与 for（持续一段时间）/ since（从某时起）连用。\n3. 经历：表示到目前为止的人生经历，常与 ever/never 连用。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定：在 have/has 后加 not（haven't/hasn't + done）。\n疑问：把 have/has 提到主语前（Have/Has + 主语 + done?）。\n常用标志词：already（已经，肯定句）、yet（还，否定/疑问句）、just（刚刚）、ever、never、so far、recently。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "现在完成时不能与表示过去的具体时间状语（yesterday, last year, in 2010, ago）连用，那要用一般过去时。\n短暂性动词（如 come, leave, buy, die）的完成时不能直接接表示一段时间的状语；要表持续需换成延续性动词（has gone / has been away）。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I have finished my homework, so I can play now.",
+          "zh": "我已经做完作业了，所以现在可以玩了。",
+          "note": "强调过去动作对现在的结果：作业完成了。"
+        },
+        {
+          "en": "She has lived in Beijing for ten years.",
+          "zh": "她在北京住了十年了。",
+          "note": "for + 一段时间，表示从过去持续到现在。"
+        },
+        {
+          "en": "Have you ever been to London?",
+          "zh": "你去过伦敦吗？",
+          "note": "ever 表经历，have been to 表示去过并已回来。"
+        },
+        {
+          "en": "They have just arrived at the airport.",
+          "zh": "他们刚刚到达机场。",
+          "note": "just 是现在完成时的典型标志词。"
+        },
+        {
+          "en": "He has not called me yet.",
+          "zh": "他还没有给我打电话。",
+          "note": "yet 用于否定句，意为「还（没）」。"
+        }
+      ],
+      "tips": [
+        "记口诀：have/has + 过去分词；强调「对现在的影响」。",
+        "see、buy、go 等短暂动词不能直接接 for/since，需改用 has been。",
+        "出现 yesterday、last week、ago 等明确过去时间，一律用一般过去时，不用现在完成时。"
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "过去完成时",
+      "titleEn": "Past Perfect Tense",
+      "summary": "表示在过去某一时间点或动作之前已经完成的动作，即「过去的过去」。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "基本结构：主语 + had + 过去分词（done），所有人称都用 had。\n否定：had not（hadn't）+ done。\n疑问：Had + 主语 + done?"
+        },
+        {
+          "heading": "用法",
+          "body": "1. 表示在过去某动作（一般过去时）发生之前就已完成的另一个动作，形成「先后」关系。\n2. 表示从更早的过去持续到过去某一点的动作或状态，常与 for/since 连用。\n常见句型：By the time / When / Before + 过去时，主句用过去完成时。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "过去完成时离不开一个「过去的参照点」，不能孤立使用。\n若两个动作按自然顺序先后发生且用 and / then 连接，往往直接用一般过去时即可，不必都用过去完成时。\nbefore / after 已经表明先后时，有时也可只用一般过去时。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "When I arrived at the station, the train had already left.",
+          "zh": "我到车站时，火车已经开走了。",
+          "note": "had left 发生在 arrived（过去）之前，是「过去的过去」。"
+        },
+        {
+          "en": "She told me that she had never seen such a beautiful sunset.",
+          "zh": "她告诉我她从没见过这么美的日落。",
+          "note": "宾语从句中，主句过去时，从句更早用过去完成时。"
+        },
+        {
+          "en": "By the time we got there, the meeting had finished.",
+          "zh": "我们到那儿时，会议已经结束了。",
+          "note": "By the time + 过去时，主句用过去完成时。"
+        },
+        {
+          "en": "He had studied English for five years before he went abroad.",
+          "zh": "他出国前已经学了五年英语。",
+          "note": "for + 一段时间，表示持续到过去某点。"
+        }
+      ],
+      "tips": [
+        "口诀：had + 过去分词，表示「过去的过去」。",
+        "必须有一个过去的时间点或动作作参照，否则不要用过去完成时。",
+        "区分：现在完成时与「现在」相关，过去完成时与「过去某点」相关。"
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "被动语态",
+      "titleEn": "Passive Voice",
+      "summary": "当动作的承受者更重要、或不知道动作执行者时，用被动语态强调「被…做」。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "基本结构：主语（动作承受者）+ be + 过去分词（done），be 随时态和人称变化。\n常见时态被动：\n一般现在：am/is/are + done\n一般过去：was/were + done\n一般将来：will be + done\n现在完成：have/has been + done\n情态动词：can/must/should + be + done"
+        },
+        {
+          "heading": "用法",
+          "body": "1. 不知道或不必说明动作执行者：The window was broken.\n2. 强调动作的承受者：This bridge was built in 1990.\n3. 需要时用 by + 执行者补充：The novel was written by Lu Xun.\n主动变被动：把宾语提前作主语，谓语变 be + 过去分词，原主语用 by 引出（可省略）。"
+        },
+        {
+          "heading": "否定与疑问",
+          "body": "否定：在 be 后加 not（is not done / was not done）。\n疑问：把 be 或助动词提前（Is it done? Has it been done?）。\n含情态动词时把情态动词提前（Can it be done?）。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "不及物动词（如 happen, appear, rise）没有被动语态。\n短语动词作被动时要保持完整：look after → be looked after，介词不能丢。\n感官与使役动词（make, see, hear）主动接省 to 的不定式，变被动时要还原 to：make sb do → sb be made to do。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "English is spoken in many countries.",
+          "zh": "许多国家都讲英语。",
+          "note": "一般现在时被动：is + spoken。"
+        },
+        {
+          "en": "The bridge was built two years ago.",
+          "zh": "这座桥是两年前建的。",
+          "note": "一般过去时被动：was + built。"
+        },
+        {
+          "en": "The problem can be solved easily.",
+          "zh": "这个问题很容易解决。",
+          "note": "情态动词被动：can be + 过去分词。"
+        },
+        {
+          "en": "The children must be taken good care of.",
+          "zh": "孩子们必须被好好照顾。",
+          "note": "短语动词 take care of 变被动，介词 of 不能丢。"
+        },
+        {
+          "en": "He was made to apologize in public.",
+          "zh": "他被迫当众道歉。",
+          "note": "make sb do 变被动须还原 to：be made to do。"
+        }
+      ],
+      "tips": [
+        "记忆公式：be + 过去分词，be 决定时态，过去分词决定意义。",
+        "happen、appear 等不及物动词没有被动语态，别误写成 was happened。",
+        "短语动词变被动别丢介词；感官/使役动词变被动要补回 to。"
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "定语从句",
+      "titleEn": "Attributive (Relative) Clauses",
+      "summary": "用一个句子作定语来修饰前面的名词或代词（先行词），相当于一个「形容词从句」。",
+      "sections": [
+        {
+          "heading": "结构与关系词",
+          "body": "结构：先行词 + 关系词 + 从句。\n关系代词：who/whom（指人）、which（指物）、that（指人或物）、whose（所属关系，指人或物）。\n关系副词：when（时间）、where（地点）、why（原因，先行词为 reason）。\n关系词既连接主从句，又在从句中充当成分（主语/宾语/定语/状语）。"
+        },
+        {
+          "heading": "关系代词的选用",
+          "body": "在从句中作主语或宾语：指人用 who/that，指物用 which/that。\n作宾语的关系代词可省略：The book (which/that) I bought is interesting.\nwhose 表所属：the boy whose father is a doctor。\n只用 that 的情况：先行词被 the only/the very/all/序数词/最高级修饰，或先行词为不定代词（everything, anything）。\n不用 that 的情况：非限制性从句、关系代词前有介词时（the city in which…）。"
+        },
+        {
+          "heading": "限制性与非限制性",
+          "body": "限制性定语从句：与先行词关系紧密，不可删去，无逗号。\n非限制性定语从句：用逗号隔开，仅作补充说明，不能用 that，删去不影响主句基本意义。\nwhich 还可引导非限制性从句，指代整个主句：He passed the exam, which made us happy."
+        }
+      ],
+      "examples": [
+        {
+          "en": "The man who is talking to Tom is my teacher.",
+          "zh": "正在和汤姆说话的那个人是我的老师。",
+          "note": "who 指人并在从句中作主语。"
+        },
+        {
+          "en": "This is the book that I borrowed from the library.",
+          "zh": "这就是我从图书馆借的那本书。",
+          "note": "that 作宾语可省略：the book (that) I borrowed。"
+        },
+        {
+          "en": "I know a girl whose mother is a famous singer.",
+          "zh": "我认识一个女孩，她妈妈是位著名歌手。",
+          "note": "whose 表所属关系。"
+        },
+        {
+          "en": "I still remember the day when we first met.",
+          "zh": "我仍记得我们第一次见面的那天。",
+          "note": "先行词是时间 the day，用关系副词 when。"
+        },
+        {
+          "en": "He failed the test, which surprised everyone.",
+          "zh": "他考试不及格，这让大家很吃惊。",
+          "note": "非限制性从句，which 指代整个主句内容。"
+        }
+      ],
+      "tips": [
+        "判断 when/where 还是 which/that：看关系词在从句中作状语（用 when/where）还是作主/宾语（用 which/that）。",
+        "非限制性从句（有逗号）绝不能用 that。",
+        "关系代词作宾语可省略，作主语不可省略。"
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "宾语从句",
+      "titleEn": "Object Clauses",
+      "summary": "用一个句子充当动词或介词的宾语，整体作宾语成分。",
+      "sections": [
+        {
+          "heading": "引导词",
+          "body": "1. that（陈述句内容，常可省略）：I think (that) he is right.\n2. whether / if（一般疑问句内容，意为「是否」）：I wonder whether/if it will rain.\n3. 连接代词/副词（特殊疑问句内容）：who, what, which, when, where, why, how 等。\n注意：从句一律用陈述语序（引导词 + 主语 + 谓语），不能再用疑问句倒装。"
+        },
+        {
+          "heading": "时态呼应",
+          "body": "主句是现在或将来时，从句根据需要用任意时态。\n主句是过去时，从句要用相应的过去时态（过去、过去进行、过去完成、过去将来 would）。\n例外：从句陈述客观真理或普遍规律时，仍用一般现在时（如「地球绕太阳转」）。"
+        },
+        {
+          "heading": "whether 与 if 的区别",
+          "body": "多数情况下 whether 和 if 可互换。\n只用 whether 的情况：与 or not 紧连（whether or not）、置于介词后、引导主语从句或同位语从句、其后接不定式（whether to go）。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I think that he will succeed.",
+          "zh": "我认为他会成功。",
+          "note": "that 引导陈述内容，可省略。"
+        },
+        {
+          "en": "Could you tell me where the station is?",
+          "zh": "你能告诉我车站在哪里吗？",
+          "note": "从句用陈述语序 where the station is，不可倒装。"
+        },
+        {
+          "en": "I am not sure whether he will come tomorrow.",
+          "zh": "我不确定他明天是否会来。",
+          "note": "whether/if 意为「是否」。"
+        },
+        {
+          "en": "She asked me what I was doing.",
+          "zh": "她问我在做什么。",
+          "note": "主句过去时，从句相应用过去进行时（时态呼应）。"
+        },
+        {
+          "en": "The teacher told us that light travels faster than sound.",
+          "zh": "老师告诉我们光比声音传播得快。",
+          "note": "客观真理，从句仍用一般现在时。"
+        }
+      ],
+      "tips": [
+        "牢记：宾语从句一律用陈述语序，把疑问句的倒装「还原」回来。",
+        "主句过去时，从句也要相应变过去（除非是客观真理）。",
+        "介词后、与 or not 连用时只能用 whether，不能用 if。"
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "状语从句",
+      "titleEn": "Adverbial Clauses",
+      "summary": "用一个句子作状语，说明主句动作的时间、地点、原因、条件、让步、目的、结果等。",
+      "sections": [
+        {
+          "heading": "常见类型与连词",
+          "body": "时间：when, while, as, before, after, until, as soon as, since。\n原因：because, since, as。\n条件：if, unless（除非）, as long as。\n让步：although/though（虽然）, even if/even though。\n目的：so that, in order that。\n结果：so…that, such…that。\n地点：where。\n比较/方式：as, than, as…as。"
+        },
+        {
+          "heading": "主将从现规则",
+          "body": "在时间状语从句和条件状语从句中，若主句是一般将来时，从句要用一般现在时表示将来，即「主将从现」。\n例：I will call you when I arrive.（不可写成 will arrive）\nIf it rains tomorrow, we will stay at home.（从句用 rains）"
+        },
+        {
+          "heading": "注意事项",
+          "body": "although/though 不能与 but 连用；because 不能与 so 连用（中文「虽然…但是」「因为…所以」只用一半）。\nso…that（如此…以至于）后接形容词/副词；such…that 后接名词。\nas 可表「当…时」「因为」「正如」「随着」，需结合语境判断。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "I will tell him the news as soon as he comes back.",
+          "zh": "他一回来我就告诉他这个消息。",
+          "note": "时间状语从句「主将从现」：主句 will，从句用 comes。"
+        },
+        {
+          "en": "If you study hard, you will pass the exam.",
+          "zh": "如果你努力学习，就会通过考试。",
+          "note": "条件状语从句「主将从现」。"
+        },
+        {
+          "en": "Although he was tired, he kept on working.",
+          "zh": "虽然他很累，但他继续工作。",
+          "note": "let步状语从句，although 不能与 but 连用。"
+        },
+        {
+          "en": "He spoke so quickly that I couldn't follow him.",
+          "zh": "他说得太快了，以至于我跟不上。",
+          "note": "so + 副词 + that，表示结果。"
+        },
+        {
+          "en": "I didn't go out because it was raining heavily.",
+          "zh": "因为雨下得很大，所以我没出去。",
+          "note": "原因状语从句，because 不能与 so 连用。"
+        }
+      ],
+      "tips": [
+        "时间/条件状语从句牢记「主将从现」：主句将来，从句现在。",
+        "although/though 不与 but 连用，because 不与 so 连用。",
+        "区分 so…that 与 such…that：so 后跟形容词/副词，such 后跟名词。"
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "非谓语动词",
+      "titleEn": "Non-finite Verbs (to do / doing / done)",
+      "summary": "动词不作谓语，而以不定式、动名词或分词形式在句中充当主语、宾语、定语、状语等成分。",
+      "sections": [
+        {
+          "heading": "三种形式概览",
+          "body": "1. 不定式 to do：常表示具体的、一次性的、未来或目的的动作。\n2. 动名词 doing：具有名词性质，表示抽象、习惯或一般性的动作，可作主语、宾语。\n3. 分词：现在分词 doing 表主动/进行；过去分词 done 表被动/完成。"
+        },
+        {
+          "heading": "不定式与动名词的选用",
+          "body": "只接不定式作宾语：want, hope, decide, plan, agree, refuse, would like。\n只接动名词作宾语：enjoy, finish, mind, keep, avoid, suggest, practice, give up。\n两者皆可但意义不同：\nremember/forget + to do（要做/没做的事）vs + doing（做过的事）；\nstop to do（停下来去做另一件事）vs stop doing（停止正在做的事）；\ntry to do（尽力做）vs try doing（试着做）。"
+        },
+        {
+          "heading": "分词作定语与状语",
+          "body": "现在分词（doing）表主动或正在进行：the rising sun（升起的太阳）、a sleeping baby。\n过去分词（done）表被动或已完成：a broken cup（被打破的杯子）、the fallen leaves。\n分词作状语时，其逻辑主语应与主句主语一致，否则属悬垂结构（错误）。\n独立主格 / 分词短语作状语可表时间、原因、条件、伴随。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "To learn English well takes time and effort.",
+          "zh": "学好英语需要时间和努力。",
+          "note": "不定式作主语，常用 It is… to do 替代。"
+        },
+        {
+          "en": "I enjoy listening to music in my free time.",
+          "zh": "我喜欢在空闲时听音乐。",
+          "note": "enjoy 后只能接动名词 doing。"
+        },
+        {
+          "en": "Remember to lock the door when you leave.",
+          "zh": "离开时记得锁门。",
+          "note": "remember to do 表示「记得去做（还没做）」。"
+        },
+        {
+          "en": "The boy reading under the tree is my brother.",
+          "zh": "在树下读书的那个男孩是我弟弟。",
+          "note": "现在分词作定语，表主动：正在读书。"
+        },
+        {
+          "en": "Frightened by the noise, the cat ran away.",
+          "zh": "被噪音吓到，那只猫跑开了。",
+          "note": "过去分词作状语，表被动，逻辑主语是 the cat。"
+        }
+      ],
+      "tips": [
+        "口诀记动名词宾语：「停止介意完成赏，建议练习别放弃」（stop/mind/finish/enjoy/suggest/practice/give up）。",
+        "remember/forget/stop/try 后 to do 与 doing 意义不同，务必区分。",
+        "分词作状语时逻辑主语要与主句主语一致，否则是病句（悬垂分词）。"
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "虚拟语气（基础）",
+      "titleEn": "Subjunctive Mood (Basics)",
+      "summary": "用来表示与事实相反、不可能实现或主观愿望的假设，谓语动词形式特殊。",
+      "sections": [
+        {
+          "heading": "if 虚拟条件句",
+          "body": "与现在事实相反：If + 主语 + 过去式（be 用 were），主句 + would/could/might + 动词原形。\n与过去事实相反：If + 主语 + had done，主句 + would/could/might + have done。\n与将来事实相反（可能性极小）：If + 主语 + were to do / should do，主句 + would + 动词原形。"
+        },
+        {
+          "heading": "wish 与 would rather",
+          "body": "wish 后的从句表示难以实现的愿望：\n对现在的愿望用过去式（I wish I were taller.）；\n对过去的遗憾用 had done（I wish I had studied harder.）；\n对将来的愿望用 would/could do。\nwould rather 后的从句同样用过去式表与现在相反，用过去完成式表与过去相反。"
+        },
+        {
+          "heading": "建议/要求类虚拟",
+          "body": "suggest, demand, insist, order, require, request 等动词后的宾语从句，以及 It is necessary/important that… 等句型中，从句谓语用 (should) + 动词原形，should 常省略。\n例：The teacher suggested that we (should) hand in the homework on time."
+        }
+      ],
+      "examples": [
+        {
+          "en": "If I were you, I would accept the offer.",
+          "zh": "如果我是你，我会接受这份工作。",
+          "note": "与现在事实相反，be 一律用 were，主句用 would do。"
+        },
+        {
+          "en": "If he had left earlier, he would have caught the train.",
+          "zh": "如果他早点动身，就能赶上火车了。",
+          "note": "与过去事实相反：had done… would have done。"
+        },
+        {
+          "en": "I wish I had taken your advice.",
+          "zh": "我真希望当初听了你的建议。",
+          "note": "wish 表对过去的遗憾，从句用 had done。"
+        },
+        {
+          "en": "The doctor insisted that the patient stay in bed.",
+          "zh": "医生坚持要病人卧床休息。",
+          "note": "insist 后从句用 (should) + 动词原形，should 省略。"
+        },
+        {
+          "en": "It is necessary that everyone be present at the meeting.",
+          "zh": "每个人都必须出席会议。",
+          "note": "It is necessary that… 从句用 (should) be，should 省略。"
+        }
+      ],
+      "tips": [
+        "记忆错位：与现在相反用过去式，与过去相反用过去完成式（时态「退一步」）。",
+        "虚拟语气中 be 动词一律用 were，不分人称（If I were…）。",
+        "suggest 表「建议」时从句用虚拟；表「暗示/表明」时从句用陈述语气，要分清。"
+      ]
+    }
+  ]
+}
