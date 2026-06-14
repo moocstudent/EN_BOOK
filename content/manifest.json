@@ -34,6 +34,28 @@
       "desc": "学术与四六级词汇，高阶语法",
       "vocabCount": 120,
       "grammarCount": 8
+    },
+    {
+      "key": "cet",
+      "label": "四六级",
+      "labelEn": "CET-4/6",
+      "level": "CET-4/6 · B2",
+      "color": "#c0432f",
+      "color2": "#8f2f1f",
+      "desc": "四六级高频词与写作/翻译语法",
+      "vocabCount": 120,
+      "grammarCount": 8
+    },
+    {
+      "key": "ielts",
+      "label": "雅思",
+      "labelEn": "IELTS",
+      "level": "IELTS 6–8 · B2–C1",
+      "color": "#0e8a8a",
+      "color2": "#0a6363",
+      "desc": "雅思话题词汇与写作高分句法",
+      "vocabCount": 120,
+      "grammarCount": 8
     }
   ]
 }

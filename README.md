@@ -3,7 +3,7 @@
 > 一本从 **初中到大学** 的在线英语学习书 —— 像数学课本一样按学段分册、按章节编排，中英双语。
 > A bilingual online English study book, from middle school to university — structured like a textbook.
 
-包含 **词汇单词卡** 和 **语法讲解** 两大模块，分为初中 / 高中 / 大学三册，纯静态网站，零构建，可直接部署到 GitHub Pages。
+包含 **词汇单词卡** 和 **语法讲解** 两大模块，分为初中 / 高中 / 大学 + 四六级 / 雅思 五册（在校学段 + 应试），纯静态网站，零构建，可直接部署到 GitHub Pages。
 
 ## ✨ 功能
 

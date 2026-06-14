@@ -1,0 +1,1009 @@
+{
+  "band": "cet",
+  "bandLabel": "四六级",
+  "bandLabelEn": "CET-4/6",
+  "units": [
+    {
+      "id": "u1",
+      "title": "核心高频动词",
+      "titleEn": "Core High-frequency Verbs",
+      "words": [
+        {
+          "word": "acquire",
+          "phonetic": "/əˈkwaɪə(r)/",
+          "pos": "v.",
+          "meaning": "获得；习得；购得",
+          "example": "Students can acquire valuable skills through internships and part-time work experience.",
+          "exampleZh": "学生可以通过实习和兼职工作经历获得宝贵的技能。"
+        },
+        {
+          "word": "enhance",
+          "phonetic": "/ɪnˈhɑːns/",
+          "pos": "v.",
+          "meaning": "提高；增强；提升",
+          "example": "Regular exercise can greatly enhance both your physical health and mental well-being.",
+          "exampleZh": "经常锻炼能极大地提高你的身体健康和心理健康。"
+        },
+        {
+          "word": "establish",
+          "phonetic": "/ɪˈstæblɪʃ/",
+          "pos": "v.",
+          "meaning": "建立；创立；确立",
+          "example": "The company plans to establish a new research center in the southern region.",
+          "exampleZh": "该公司计划在南部地区建立一个新的研究中心。"
+        },
+        {
+          "word": "maintain",
+          "phonetic": "/meɪnˈteɪn/",
+          "pos": "v.",
+          "meaning": "维持；保养；坚持认为",
+          "example": "It is essential to maintain a balanced diet in order to stay healthy.",
+          "exampleZh": "为了保持健康，维持均衡的饮食至关重要。"
+        },
+        {
+          "word": "indicate",
+          "phonetic": "/ˈɪndɪkeɪt/",
+          "pos": "v.",
+          "meaning": "表明；指出；显示",
+          "example": "Recent surveys indicate that young people increasingly prefer online shopping.",
+          "exampleZh": "近期的调查表明，年轻人越来越倾向于网上购物。"
+        },
+        {
+          "word": "demonstrate",
+          "phonetic": "/ˈdemənstreɪt/",
+          "pos": "v.",
+          "meaning": "证明；演示；表明",
+          "example": "The experiment clearly demonstrates the harmful effects of air pollution on plants.",
+          "exampleZh": "这个实验清楚地证明了空气污染对植物的有害影响。"
+        },
+        {
+          "word": "obtain",
+          "phonetic": "/əbˈteɪn/",
+          "pos": "v.",
+          "meaning": "获得；得到",
+          "example": "You must obtain the manager's approval before signing any official contract.",
+          "exampleZh": "在签署任何正式合同之前，你必须获得经理的批准。"
+        },
+        {
+          "word": "contribute",
+          "phonetic": "/kənˈtrɪbjuːt/",
+          "pos": "v.",
+          "meaning": "贡献；捐助；促成",
+          "example": "Volunteers contribute their time and energy to help disadvantaged children.",
+          "exampleZh": "志愿者们贡献自己的时间和精力来帮助弱势儿童。"
+        },
+        {
+          "word": "reveal",
+          "phonetic": "/rɪˈviːl/",
+          "pos": "v.",
+          "meaning": "揭示；显露；透露",
+          "example": "The investigation revealed serious problems in the company's financial management.",
+          "exampleZh": "这项调查揭示了该公司财务管理中的严重问题。"
+        },
+        {
+          "word": "pursue",
+          "phonetic": "/pəˈsjuː/",
+          "pos": "v.",
+          "meaning": "追求；从事；继续",
+          "example": "Many graduates choose to pursue further studies abroad after finishing college.",
+          "exampleZh": "许多毕业生在大学毕业后选择出国深造。"
+        },
+        {
+          "word": "implement",
+          "phonetic": "/ˈɪmplɪment/",
+          "pos": "v.",
+          "meaning": "实施；执行；贯彻",
+          "example": "The government has decided to implement stricter rules on industrial emissions.",
+          "exampleZh": "政府已决定实施更严格的工业排放规定。"
+        },
+        {
+          "word": "convey",
+          "phonetic": "/kənˈveɪ/",
+          "pos": "v.",
+          "meaning": "传达；表达；运送",
+          "example": "A good speaker can convey complex ideas in a simple and clear manner.",
+          "exampleZh": "优秀的演讲者能够以简单明了的方式传达复杂的观点。"
+        },
+        {
+          "word": "promote",
+          "phonetic": "/prəˈməʊt/",
+          "pos": "v.",
+          "meaning": "促进；提升；推广",
+          "example": "Cultural exchanges help promote mutual understanding between different nations.",
+          "exampleZh": "文化交流有助于促进不同国家之间的相互理解。"
+        },
+        {
+          "word": "evaluate",
+          "phonetic": "/ɪˈvæljueɪt/",
+          "pos": "v.",
+          "meaning": "评估；评价；估计",
+          "example": "Teachers should evaluate each student's progress fairly and objectively.",
+          "exampleZh": "老师应当公平客观地评估每位学生的进步。"
+        },
+        {
+          "word": "overcome",
+          "phonetic": "/ˌəʊvəˈkʌm/",
+          "pos": "v.",
+          "meaning": "克服；战胜；压倒",
+          "example": "With determination and patience, she finally overcame her fear of public speaking.",
+          "exampleZh": "凭借决心和耐心，她最终克服了对公开演讲的恐惧。"
+        },
+        {
+          "word": "adapt",
+          "phonetic": "/əˈdæpt/",
+          "pos": "v.",
+          "meaning": "适应；改编；调整",
+          "example": "New employees often need time to adapt to the working environment of a company.",
+          "exampleZh": "新员工通常需要时间来适应公司的工作环境。"
+        },
+        {
+          "word": "emphasize",
+          "phonetic": "/ˈemfəsaɪz/",
+          "pos": "v.",
+          "meaning": "强调；着重",
+          "example": "The professor emphasized the importance of independent thinking in academic research.",
+          "exampleZh": "教授强调了独立思考在学术研究中的重要性。"
+        },
+        {
+          "word": "encounter",
+          "phonetic": "/ɪnˈkaʊntə(r)/",
+          "pos": "v.",
+          "meaning": "遭遇；遇到；偶遇",
+          "example": "Travelers may encounter unexpected difficulties when visiting unfamiliar places.",
+          "exampleZh": "旅行者在游览陌生地方时可能会遇到意想不到的困难。"
+        },
+        {
+          "word": "facilitate",
+          "phonetic": "/fəˈsɪlɪteɪt/",
+          "pos": "v.",
+          "meaning": "促进；使便利；帮助",
+          "example": "Modern technology has greatly facilitated communication across the whole world.",
+          "exampleZh": "现代科技极大地促进了全世界范围内的交流。"
+        },
+        {
+          "word": "undertake",
+          "phonetic": "/ˌʌndəˈteɪk/",
+          "pos": "v.",
+          "meaning": "承担；着手；保证",
+          "example": "The team agreed to undertake the challenging project despite the limited budget.",
+          "exampleZh": "尽管预算有限，团队还是同意承担这个具有挑战性的项目。"
+        }
+      ]
+    },
+    {
+      "id": "u2",
+      "title": "学术与考试",
+      "titleEn": "Academic & Exams",
+      "words": [
+        {
+          "word": "analysis",
+          "phonetic": "/əˈnæləsɪs/",
+          "pos": "n.",
+          "meaning": "分析；解析",
+          "example": "A careful analysis of the data helped the researchers reach a reliable conclusion.",
+          "exampleZh": "对数据的细致分析帮助研究人员得出了可靠的结论。"
+        },
+        {
+          "word": "thesis",
+          "phonetic": "/ˈθiːsɪs/",
+          "pos": "n.",
+          "meaning": "论文；论点",
+          "example": "She spent two years collecting material for her graduation thesis on linguistics.",
+          "exampleZh": "她花了两年时间为自己的语言学毕业论文收集资料。"
+        },
+        {
+          "word": "curriculum",
+          "phonetic": "/kəˈrɪkjələm/",
+          "pos": "n.",
+          "meaning": "课程；全部课程",
+          "example": "The university has updated its curriculum to meet the needs of modern society.",
+          "exampleZh": "这所大学更新了课程，以满足现代社会的需求。"
+        },
+        {
+          "word": "assignment",
+          "phonetic": "/əˈsaɪnmənt/",
+          "pos": "n.",
+          "meaning": "作业；任务；分配",
+          "example": "Students are expected to submit their assignments before the end of the week.",
+          "exampleZh": "学生需要在本周末之前提交他们的作业。"
+        },
+        {
+          "word": "scholarship",
+          "phonetic": "/ˈskɒləʃɪp/",
+          "pos": "n.",
+          "meaning": "奖学金；学问",
+          "example": "He won a full scholarship that covered all his tuition and living expenses.",
+          "exampleZh": "他获得了一项全额奖学金，涵盖了他所有的学费和生活费。"
+        },
+        {
+          "word": "discipline",
+          "phonetic": "/ˈdɪsəplɪn/",
+          "pos": "n.",
+          "meaning": "学科；纪律；自律",
+          "example": "Economics is a discipline that examines how people use limited resources.",
+          "exampleZh": "经济学是一门研究人们如何使用有限资源的学科。"
+        },
+        {
+          "word": "lecture",
+          "phonetic": "/ˈlektʃə(r)/",
+          "pos": "n.",
+          "meaning": "讲座；演讲；课",
+          "example": "The visiting professor delivered an inspiring lecture on artificial intelligence.",
+          "exampleZh": "客座教授就人工智能发表了一场鼓舞人心的讲座。"
+        },
+        {
+          "word": "comprehension",
+          "phonetic": "/ˌkɒmprɪˈhenʃn/",
+          "pos": "n.",
+          "meaning": "理解；理解力",
+          "example": "Wide reading is one of the best ways to improve your reading comprehension.",
+          "exampleZh": "广泛阅读是提高阅读理解能力的最佳方法之一。"
+        },
+        {
+          "word": "qualification",
+          "phonetic": "/ˌkwɒlɪfɪˈkeɪʃn/",
+          "pos": "n.",
+          "meaning": "资格；学历；资质",
+          "example": "A professional qualification can significantly increase your chances of employment.",
+          "exampleZh": "专业资格能够大大增加你的就业机会。"
+        },
+        {
+          "word": "academic",
+          "phonetic": "/ˌækəˈdemɪk/",
+          "pos": "adj.",
+          "meaning": "学术的；学业的",
+          "example": "Her outstanding academic performance earned her admission to a top university.",
+          "exampleZh": "她出色的学业表现使她获得了一所顶尖大学的录取资格。"
+        },
+        {
+          "word": "intellectual",
+          "phonetic": "/ˌɪntəˈlektʃuəl/",
+          "pos": "adj.",
+          "meaning": "智力的；理智的",
+          "example": "University offers students rich opportunities for intellectual growth and development.",
+          "exampleZh": "大学为学生提供了丰富的智力成长与发展的机会。"
+        },
+        {
+          "word": "theoretical",
+          "phonetic": "/ˌθɪəˈretɪkl/",
+          "pos": "adj.",
+          "meaning": "理论的；理论上的",
+          "example": "The course combines theoretical knowledge with practical laboratory experiments.",
+          "exampleZh": "这门课程将理论知识与实际的实验室实验结合起来。"
+        },
+        {
+          "word": "comprehensive",
+          "phonetic": "/ˌkɒmprɪˈhensɪv/",
+          "pos": "adj.",
+          "meaning": "全面的；综合的",
+          "example": "The textbook provides a comprehensive overview of modern world history.",
+          "exampleZh": "这本教科书全面概述了现代世界历史。"
+        },
+        {
+          "word": "hypothesis",
+          "phonetic": "/haɪˈpɒθəsɪs/",
+          "pos": "n.",
+          "meaning": "假设；假说",
+          "example": "Scientists must test every hypothesis through repeated and careful experiments.",
+          "exampleZh": "科学家必须通过反复而细致的实验来检验每一个假设。"
+        },
+        {
+          "word": "interpret",
+          "phonetic": "/ɪnˈtɜːprɪt/",
+          "pos": "v.",
+          "meaning": "解释；诠释；口译",
+          "example": "Different readers may interpret the same poem in completely different ways.",
+          "exampleZh": "不同的读者可能会以完全不同的方式诠释同一首诗。"
+        },
+        {
+          "word": "summarize",
+          "phonetic": "/ˈsʌməraɪz/",
+          "pos": "v.",
+          "meaning": "总结；概述",
+          "example": "Please summarize the main points of the article in no more than three sentences.",
+          "exampleZh": "请用不超过三句话总结这篇文章的要点。"
+        },
+        {
+          "word": "criterion",
+          "phonetic": "/kraɪˈtɪəriən/",
+          "pos": "n.",
+          "meaning": "标准；准则",
+          "example": "Originality is an important criterion for judging an academic research paper.",
+          "exampleZh": "独创性是评判一篇学术研究论文的重要标准。"
+        },
+        {
+          "word": "literacy",
+          "phonetic": "/ˈlɪtərəsi/",
+          "pos": "n.",
+          "meaning": "读写能力；素养",
+          "example": "Raising the literacy rate is a key goal of the national education programme.",
+          "exampleZh": "提高识字率是国家教育计划的一个关键目标。"
+        },
+        {
+          "word": "diploma",
+          "phonetic": "/dɪˈpləʊmə/",
+          "pos": "n.",
+          "meaning": "文凭；毕业证书",
+          "example": "After three years of hard study, he finally received his college diploma.",
+          "exampleZh": "经过三年的刻苦学习，他终于拿到了大学文凭。"
+        },
+        {
+          "word": "seminar",
+          "phonetic": "/ˈsem.ɪ.nɑːr/",
+          "pos": "n.",
+          "meaning": "研讨会；研讨课",
+          "example": "Every graduate student must present a paper at the weekly seminar.",
+          "exampleZh": "每位研究生都必须在每周的研讨课上做论文报告。"
+        }
+      ]
+    },
+    {
+      "id": "u3",
+      "title": "经济与职场",
+      "titleEn": "Economy & Workplace",
+      "words": [
+        {
+          "word": "economy",
+          "phonetic": "/ɪˈkɒnəmi/",
+          "pos": "n.",
+          "meaning": "经济；经济体；节约",
+          "example": "The national economy has grown steadily over the past decade despite challenges.",
+          "exampleZh": "尽管面临挑战，国家经济在过去十年里仍稳步增长。"
+        },
+        {
+          "word": "investment",
+          "phonetic": "/ɪnˈvestmənt/",
+          "pos": "n.",
+          "meaning": "投资；投入",
+          "example": "Foreign investment has played a vital role in the development of the region.",
+          "exampleZh": "外国投资在该地区的发展中发挥了至关重要的作用。"
+        },
+        {
+          "word": "budget",
+          "phonetic": "/ˈbʌdʒɪt/",
+          "pos": "n.",
+          "meaning": "预算；经费",
+          "example": "The department had to cut its annual budget because of falling revenue.",
+          "exampleZh": "由于收入下降，该部门不得不削减年度预算。"
+        },
+        {
+          "word": "profit",
+          "phonetic": "/ˈprɒfɪt/",
+          "pos": "n.",
+          "meaning": "利润；收益；好处",
+          "example": "The company made a substantial profit by expanding into overseas markets.",
+          "exampleZh": "该公司通过拓展海外市场获得了可观的利润。"
+        },
+        {
+          "word": "consumer",
+          "phonetic": "/kənˈsjuːmə(r)/",
+          "pos": "n.",
+          "meaning": "消费者；用户",
+          "example": "Companies must understand consumer demand in order to design popular products.",
+          "exampleZh": "企业必须了解消费者需求，才能设计出受欢迎的产品。"
+        },
+        {
+          "word": "enterprise",
+          "phonetic": "/ˈentəpraɪz/",
+          "pos": "n.",
+          "meaning": "企业；事业；进取心",
+          "example": "Small and medium enterprises create the majority of new jobs in the country.",
+          "exampleZh": "中小型企业为这个国家创造了大部分的新就业岗位。"
+        },
+        {
+          "word": "salary",
+          "phonetic": "/ˈsæləri/",
+          "pos": "n.",
+          "meaning": "薪水；工资",
+          "example": "Most graduates expect a reasonable salary that matches their qualifications.",
+          "exampleZh": "大多数毕业生期望获得与其资历相称的合理薪水。"
+        },
+        {
+          "word": "colleague",
+          "phonetic": "/ˈkɒliːɡ/",
+          "pos": "n.",
+          "meaning": "同事；同僚",
+          "example": "A good relationship with your colleagues makes the workplace more enjoyable.",
+          "exampleZh": "与同事保持良好的关系会使工作场所更加愉快。"
+        },
+        {
+          "word": "commerce",
+          "phonetic": "/ˈkɒmɜːs/",
+          "pos": "n.",
+          "meaning": "商业；贸易",
+          "example": "Electronic commerce has fundamentally changed the way people buy and sell goods.",
+          "exampleZh": "电子商务从根本上改变了人们买卖商品的方式。"
+        },
+        {
+          "word": "negotiate",
+          "phonetic": "/nɪˈɡəʊʃieɪt/",
+          "pos": "v.",
+          "meaning": "谈判；协商；商定",
+          "example": "The two firms spent weeks trying to negotiate a fair and lasting agreement.",
+          "exampleZh": "两家公司花了数周时间试图协商出一份公平而持久的协议。"
+        },
+        {
+          "word": "recruit",
+          "phonetic": "/rɪˈkruːt/",
+          "pos": "v.",
+          "meaning": "招聘；招募",
+          "example": "The firm plans to recruit ten skilled engineers for its new project.",
+          "exampleZh": "该公司计划为其新项目招聘十名熟练的工程师。"
+        },
+        {
+          "word": "promotion",
+          "phonetic": "/prəˈməʊʃn/",
+          "pos": "n.",
+          "meaning": "晋升；促销；推广",
+          "example": "After years of hard work, she finally earned a well-deserved promotion.",
+          "exampleZh": "经过多年的努力，她终于获得了一次当之无愧的晋升。"
+        },
+        {
+          "word": "competitive",
+          "phonetic": "/kəmˈpetətɪv/",
+          "pos": "adj.",
+          "meaning": "竞争的；有竞争力的",
+          "example": "To survive in a competitive market, businesses must keep improving their services.",
+          "exampleZh": "为了在竞争激烈的市场中生存，企业必须不断改进服务。"
+        },
+        {
+          "word": "efficient",
+          "phonetic": "/ɪˈfɪʃnt/",
+          "pos": "adj.",
+          "meaning": "高效的；效率高的",
+          "example": "An efficient management system can save the company a great deal of money.",
+          "exampleZh": "高效的管理系统能为公司节省大量资金。"
+        },
+        {
+          "word": "productivity",
+          "phonetic": "/ˌprɒdʌkˈtɪvəti/",
+          "pos": "n.",
+          "meaning": "生产力；生产率",
+          "example": "Flexible working hours have been shown to increase employee productivity.",
+          "exampleZh": "弹性工作时间已被证明能够提高员工的生产力。"
+        },
+        {
+          "word": "expenditure",
+          "phonetic": "/ɪkˈspendɪtʃə(r)/",
+          "pos": "n.",
+          "meaning": "支出；开销；花费",
+          "example": "The family tried to reduce its monthly expenditure on entertainment and dining.",
+          "exampleZh": "这家人努力减少每月在娱乐和餐饮上的支出。"
+        },
+        {
+          "word": "entrepreneur",
+          "phonetic": "/ˌɒntrəprəˈnɜː(r)/",
+          "pos": "n.",
+          "meaning": "企业家；创业者",
+          "example": "A successful entrepreneur is willing to take risks and learn from failure.",
+          "exampleZh": "成功的创业者愿意承担风险并从失败中学习。"
+        },
+        {
+          "word": "revenue",
+          "phonetic": "/ˈrevənjuː/",
+          "pos": "n.",
+          "meaning": "收入；营收；税收",
+          "example": "The government's tax revenue rose sharply during the period of rapid growth.",
+          "exampleZh": "在快速增长期间，政府的税收大幅上升。"
+        },
+        {
+          "word": "prosperity",
+          "phonetic": "/prɒˈsperəti/",
+          "pos": "n.",
+          "meaning": "繁荣；兴旺；成功",
+          "example": "Education is widely regarded as the foundation of long-term national prosperity.",
+          "exampleZh": "教育被普遍视为国家长期繁荣的基础。"
+        },
+        {
+          "word": "incentive",
+          "phonetic": "/ɪnˈsen.tɪv/",
+          "pos": "n.",
+          "meaning": "激励；动机；奖励",
+          "example": "The company offers financial incentives to boost employee productivity.",
+          "exampleZh": "公司提供经济奖励以提高员工的生产率。"
+        }
+      ]
+    },
+    {
+      "id": "u4",
+      "title": "社会与文化",
+      "titleEn": "Society & Culture",
+      "words": [
+        {
+          "word": "community",
+          "phonetic": "/kəˈmjuːnəti/",
+          "pos": "n.",
+          "meaning": "社区；群体；共同体",
+          "example": "Volunteering is a meaningful way to give back to your local community.",
+          "exampleZh": "做志愿者是回馈当地社区的一种有意义的方式。"
+        },
+        {
+          "word": "tradition",
+          "phonetic": "/trəˈdɪʃn/",
+          "pos": "n.",
+          "meaning": "传统；惯例",
+          "example": "Many families still keep the tradition of gathering together during festivals.",
+          "exampleZh": "许多家庭仍然保留着在节日期间团聚的传统。"
+        },
+        {
+          "word": "diversity",
+          "phonetic": "/daɪˈvɜːsəti/",
+          "pos": "n.",
+          "meaning": "多样性；多元化",
+          "example": "Cultural diversity makes a society more vibrant, creative and open-minded.",
+          "exampleZh": "文化多样性使社会更加充满活力、富有创造力且思想开放。"
+        },
+        {
+          "word": "phenomenon",
+          "phonetic": "/fəˈnɒmɪnən/",
+          "pos": "n.",
+          "meaning": "现象；杰出人才",
+          "example": "Studying abroad has become a common phenomenon among Chinese students today.",
+          "exampleZh": "如今出国留学已成为中国学生中的一种普遍现象。"
+        },
+        {
+          "word": "generation",
+          "phonetic": "/ˌdʒenəˈreɪʃn/",
+          "pos": "n.",
+          "meaning": "一代人；产生",
+          "example": "The younger generation tends to rely heavily on smartphones for daily life.",
+          "exampleZh": "年轻一代往往在日常生活中严重依赖智能手机。"
+        },
+        {
+          "word": "heritage",
+          "phonetic": "/ˈherɪtɪdʒ/",
+          "pos": "n.",
+          "meaning": "遗产；传统",
+          "example": "We have a duty to protect our cultural heritage for future generations.",
+          "exampleZh": "我们有责任为子孙后代保护我们的文化遗产。"
+        },
+        {
+          "word": "welfare",
+          "phonetic": "/ˈwelfeə(r)/",
+          "pos": "n.",
+          "meaning": "福利；幸福；福祉",
+          "example": "The government has introduced new policies to improve public welfare and health.",
+          "exampleZh": "政府出台了新政策以改善公共福利和健康。"
+        },
+        {
+          "word": "prejudice",
+          "phonetic": "/ˈpredʒudɪs/",
+          "pos": "n.",
+          "meaning": "偏见；成见",
+          "example": "Education plays a key role in reducing prejudice against different social groups.",
+          "exampleZh": "教育在减少对不同社会群体的偏见方面起着关键作用。"
+        },
+        {
+          "word": "urbanization",
+          "phonetic": "/ˌɜːbənaɪˈzeɪʃn/",
+          "pos": "n.",
+          "meaning": "城市化；都市化",
+          "example": "Rapid urbanization has brought both opportunities and challenges to rural areas.",
+          "exampleZh": "快速的城市化给农村地区带来了机遇，也带来了挑战。"
+        },
+        {
+          "word": "ethnic",
+          "phonetic": "/ˈeθnɪk/",
+          "pos": "adj.",
+          "meaning": "民族的；种族的",
+          "example": "The city is home to people from many different ethnic backgrounds.",
+          "exampleZh": "这座城市居住着来自许多不同民族背景的人。"
+        },
+        {
+          "word": "civilization",
+          "phonetic": "/ˌsɪvəlaɪˈzeɪʃn/",
+          "pos": "n.",
+          "meaning": "文明；文化",
+          "example": "Ancient Chinese civilization has made remarkable contributions to human progress.",
+          "exampleZh": "古代中华文明为人类进步作出了卓越的贡献。"
+        },
+        {
+          "word": "moral",
+          "phonetic": "/ˈmɒrəl/",
+          "pos": "adj.",
+          "meaning": "道德的；精神上的",
+          "example": "Parents have a moral responsibility to set a good example for their children.",
+          "exampleZh": "父母有道德责任为他们的孩子树立好榜样。"
+        },
+        {
+          "word": "conflict",
+          "phonetic": "/ˈkɒnflɪkt/",
+          "pos": "n.",
+          "meaning": "冲突；矛盾；争论",
+          "example": "Open communication is often the best way to resolve a serious conflict.",
+          "exampleZh": "坦诚的沟通往往是解决严重冲突的最佳方式。"
+        },
+        {
+          "word": "equality",
+          "phonetic": "/iˈkwɒləti/",
+          "pos": "n.",
+          "meaning": "平等；均等",
+          "example": "The new law aims to promote gender equality in the workplace.",
+          "exampleZh": "这项新法律旨在促进职场中的性别平等。"
+        },
+        {
+          "word": "harmony",
+          "phonetic": "/ˈhɑːməni/",
+          "pos": "n.",
+          "meaning": "和谐；融洽；协调",
+          "example": "Living in harmony with nature is essential for the survival of mankind.",
+          "exampleZh": "与自然和谐相处对于人类的生存至关重要。"
+        },
+        {
+          "word": "ceremony",
+          "phonetic": "/ˈserəməni/",
+          "pos": "n.",
+          "meaning": "典礼；仪式",
+          "example": "The opening ceremony of the festival attracted thousands of enthusiastic visitors.",
+          "exampleZh": "该节日的开幕典礼吸引了数千名热情的游客。"
+        },
+        {
+          "word": "isolation",
+          "phonetic": "/ˌaɪsəˈleɪʃn/",
+          "pos": "n.",
+          "meaning": "孤立；隔离；孤独",
+          "example": "Long-term social isolation can have a negative effect on mental health.",
+          "exampleZh": "长期的社会孤立会对心理健康产生负面影响。"
+        },
+        {
+          "word": "reputation",
+          "phonetic": "/ˌrepjuˈteɪʃn/",
+          "pos": "n.",
+          "meaning": "名声；声誉",
+          "example": "It takes years to build a good reputation but only moments to ruin it.",
+          "exampleZh": "建立良好的声誉需要数年，而毁掉它只需片刻。"
+        },
+        {
+          "word": "norm",
+          "phonetic": "/nɔːm/",
+          "pos": "n.",
+          "meaning": "规范；准则；常态",
+          "example": "Remote working has gradually become the norm in many modern industries.",
+          "exampleZh": "远程办公已逐渐成为许多现代行业的常态。"
+        },
+        {
+          "word": "stereotype",
+          "phonetic": "/ˈster.i.ə.taɪp/",
+          "pos": "n.",
+          "meaning": "刻板印象；成见",
+          "example": "The documentary challenges common stereotypes about rural communities.",
+          "exampleZh": "这部纪录片挑战了人们对农村社区的常见刻板印象。"
+        }
+      ]
+    },
+    {
+      "id": "u5",
+      "title": "科技与环境",
+      "titleEn": "Technology & Environment",
+      "words": [
+        {
+          "word": "technology",
+          "phonetic": "/tekˈnɒlədʒi/",
+          "pos": "n.",
+          "meaning": "技术；科技",
+          "example": "Modern technology has transformed almost every aspect of our daily lives.",
+          "exampleZh": "现代科技几乎改变了我们日常生活的方方面面。"
+        },
+        {
+          "word": "innovation",
+          "phonetic": "/ˌɪnəˈveɪʃn/",
+          "pos": "n.",
+          "meaning": "创新；革新",
+          "example": "Continuous innovation is the key to a company's long-term competitiveness.",
+          "exampleZh": "持续创新是公司长期竞争力的关键。"
+        },
+        {
+          "word": "pollution",
+          "phonetic": "/pəˈluːʃn/",
+          "pos": "n.",
+          "meaning": "污染",
+          "example": "Air pollution in big cities poses a serious threat to public health.",
+          "exampleZh": "大城市的空气污染对公众健康构成了严重威胁。"
+        },
+        {
+          "word": "environment",
+          "phonetic": "/ɪnˈvaɪrənmənt/",
+          "pos": "n.",
+          "meaning": "环境；自然环境",
+          "example": "We should all take action to protect the environment from further damage.",
+          "exampleZh": "我们都应当采取行动，保护环境免受进一步破坏。"
+        },
+        {
+          "word": "resource",
+          "phonetic": "/rɪˈsɔːs/",
+          "pos": "n.",
+          "meaning": "资源；财力；办法",
+          "example": "Water is a precious natural resource that should never be wasted.",
+          "exampleZh": "水是一种宝贵的自然资源，绝不应被浪费。"
+        },
+        {
+          "word": "sustainable",
+          "phonetic": "/səˈsteɪnəbl/",
+          "pos": "adj.",
+          "meaning": "可持续的；可维持的",
+          "example": "Many countries are now investing heavily in sustainable energy projects.",
+          "exampleZh": "许多国家如今正大量投资于可持续能源项目。"
+        },
+        {
+          "word": "renewable",
+          "phonetic": "/rɪˈnjuːəbl/",
+          "pos": "adj.",
+          "meaning": "可再生的；可更新的",
+          "example": "Solar and wind power are clean and renewable sources of energy.",
+          "exampleZh": "太阳能和风能是清洁且可再生的能源。"
+        },
+        {
+          "word": "device",
+          "phonetic": "/dɪˈvaɪs/",
+          "pos": "n.",
+          "meaning": "装置；设备；手段",
+          "example": "Wearable devices can monitor your heart rate and sleep quality automatically.",
+          "exampleZh": "可穿戴设备能够自动监测你的心率和睡眠质量。"
+        },
+        {
+          "word": "automatic",
+          "phonetic": "/ˌɔːtəˈmætɪk/",
+          "pos": "adj.",
+          "meaning": "自动的；无意识的",
+          "example": "The factory installed an automatic system to inspect products for defects.",
+          "exampleZh": "工厂安装了一套自动系统来检查产品是否有缺陷。"
+        },
+        {
+          "word": "digital",
+          "phonetic": "/ˈdɪdʒɪtl/",
+          "pos": "adj.",
+          "meaning": "数字的；数码的",
+          "example": "The rise of the digital economy has created millions of new jobs.",
+          "exampleZh": "数字经济的兴起创造了数百万个新的就业岗位。"
+        },
+        {
+          "word": "emission",
+          "phonetic": "/iˈmɪʃn/",
+          "pos": "n.",
+          "meaning": "排放；排放物",
+          "example": "Reducing carbon emission is essential to slowing down global climate change.",
+          "exampleZh": "减少碳排放对于减缓全球气候变化至关重要。"
+        },
+        {
+          "word": "ecosystem",
+          "phonetic": "/ˈiːkəʊsɪstəm/",
+          "pos": "n.",
+          "meaning": "生态系统",
+          "example": "The destruction of forests can severely damage the local ecosystem.",
+          "exampleZh": "森林的破坏会严重损害当地的生态系统。"
+        },
+        {
+          "word": "experiment",
+          "phonetic": "/ɪkˈsperɪmənt/",
+          "pos": "n.",
+          "meaning": "实验；试验",
+          "example": "The scientists repeated the experiment several times to confirm their results.",
+          "exampleZh": "科学家们多次重复实验，以确认他们的结果。"
+        },
+        {
+          "word": "artificial",
+          "phonetic": "/ˌɑːtɪˈfɪʃl/",
+          "pos": "adj.",
+          "meaning": "人造的；人工的；虚假的",
+          "example": "Artificial intelligence is gradually being applied to medicine and education.",
+          "exampleZh": "人工智能正逐渐被应用于医学和教育领域。"
+        },
+        {
+          "word": "conservation",
+          "phonetic": "/ˌkɒnsəˈveɪʃn/",
+          "pos": "n.",
+          "meaning": "保护；保存；节约",
+          "example": "Wildlife conservation requires the joint efforts of governments and citizens.",
+          "exampleZh": "野生动物保护需要政府和公民的共同努力。"
+        },
+        {
+          "word": "efficiency",
+          "phonetic": "/ɪˈfɪʃnsi/",
+          "pos": "n.",
+          "meaning": "效率；功效",
+          "example": "Improving energy efficiency can help households save on their electricity bills.",
+          "exampleZh": "提高能源效率可以帮助家庭节省电费开支。"
+        },
+        {
+          "word": "transmit",
+          "phonetic": "/trænzˈmɪt/",
+          "pos": "v.",
+          "meaning": "传输；传播；传送",
+          "example": "Satellites are used to transmit television signals across long distances.",
+          "exampleZh": "卫星被用来远距离传输电视信号。"
+        },
+        {
+          "word": "pesticide",
+          "phonetic": "/ˈpestɪsaɪd/",
+          "pos": "n.",
+          "meaning": "杀虫剂；农药",
+          "example": "The overuse of pesticide can pollute the soil and harm useful insects.",
+          "exampleZh": "杀虫剂的过度使用会污染土壤并伤害有益的昆虫。"
+        },
+        {
+          "word": "biological",
+          "phonetic": "/ˌbaɪəˈlɒdʒɪkl/",
+          "pos": "adj.",
+          "meaning": "生物的；生物学的",
+          "example": "The reserve was established to protect the biological diversity of the wetland.",
+          "exampleZh": "建立这个保护区是为了保护湿地的生物多样性。"
+        },
+        {
+          "word": "contaminate",
+          "phonetic": "/kənˈtæmɪneɪt/",
+          "pos": "v.",
+          "meaning": "污染；弄脏；毒害",
+          "example": "Industrial waste may contaminate rivers and threaten the supply of drinking water.",
+          "exampleZh": "工业废料可能污染河流，并威胁饮用水的供应。"
+        }
+      ]
+    },
+    {
+      "id": "u6",
+      "title": "写作高级替换词",
+      "titleEn": "Advanced Words for Writing",
+      "words": [
+        {
+          "word": "significant",
+          "phonetic": "/sɪɡˈnɪfɪkənt/",
+          "pos": "adj.",
+          "meaning": "重要的；显著的（替换 important）",
+          "example": "The report points out a significant rise in the number of online learners.",
+          "exampleZh": "报告指出在线学习者的数量显著增加。"
+        },
+        {
+          "word": "essential",
+          "phonetic": "/ɪˈsenʃl/",
+          "pos": "adj.",
+          "meaning": "必不可少的；本质的（替换 necessary）",
+          "example": "Teamwork is essential if a project is to be completed successfully and on time.",
+          "exampleZh": "如果一个项目要成功且按时完成，团队合作是必不可少的。"
+        },
+        {
+          "word": "numerous",
+          "phonetic": "/ˈnjuːmərəs/",
+          "pos": "adj.",
+          "meaning": "众多的；许多的（替换 many）",
+          "example": "There are numerous reasons why people choose to live in big cities.",
+          "exampleZh": "人们选择在大城市生活有许多原因。"
+        },
+        {
+          "word": "beneficial",
+          "phonetic": "/ˌbenɪˈfɪʃl/",
+          "pos": "adj.",
+          "meaning": "有益的；有利的（替换 good）",
+          "example": "A moderate amount of exercise is beneficial to both body and mind.",
+          "exampleZh": "适量的运动对身心都有益处。"
+        },
+        {
+          "word": "crucial",
+          "phonetic": "/ˈkruːʃl/",
+          "pos": "adj.",
+          "meaning": "至关重要的（替换 important）",
+          "example": "Time management plays a crucial role in achieving academic success.",
+          "exampleZh": "时间管理在取得学业成功方面起着至关重要的作用。"
+        },
+        {
+          "word": "considerable",
+          "phonetic": "/kənˈsɪdərəbl/",
+          "pos": "adj.",
+          "meaning": "相当大的；可观的（替换 big）",
+          "example": "The new policy has brought considerable benefits to low-income families.",
+          "exampleZh": "这项新政策给低收入家庭带来了相当大的好处。"
+        },
+        {
+          "word": "tremendous",
+          "phonetic": "/trəˈmendəs/",
+          "pos": "adj.",
+          "meaning": "巨大的；极好的（替换 great）",
+          "example": "The internet has had a tremendous impact on the way we obtain information.",
+          "exampleZh": "互联网对我们获取信息的方式产生了巨大的影响。"
+        },
+        {
+          "word": "vital",
+          "phonetic": "/ˈvaɪtl/",
+          "pos": "adj.",
+          "meaning": "极其重要的；至关重要的（替换 important）",
+          "example": "A balanced diet is vital for maintaining good health and high energy.",
+          "exampleZh": "均衡的饮食对于保持健康和充沛精力极其重要。"
+        },
+        {
+          "word": "diverse",
+          "phonetic": "/daɪˈvɜːs/",
+          "pos": "adj.",
+          "meaning": "多种多样的（替换 different）",
+          "example": "The university attracts students from diverse cultural and social backgrounds.",
+          "exampleZh": "这所大学吸引了来自多种文化和社会背景的学生。"
+        },
+        {
+          "word": "remarkable",
+          "phonetic": "/rɪˈmɑːkəbl/",
+          "pos": "adj.",
+          "meaning": "非凡的；显著的（替换 amazing）",
+          "example": "Over the past years, the country has made remarkable economic achievements.",
+          "exampleZh": "在过去的几年里，这个国家取得了非凡的经济成就。"
+        },
+        {
+          "word": "moreover",
+          "phonetic": "/mɔːrˈəʊvə(r)/",
+          "pos": "adv.",
+          "meaning": "此外；而且（替换 besides）",
+          "example": "The plan is too costly; moreover, it may bring serious environmental risks.",
+          "exampleZh": "这个计划成本太高；此外，它可能带来严重的环境风险。"
+        },
+        {
+          "word": "furthermore",
+          "phonetic": "/ˌfɜːðəˈmɔː(r)/",
+          "pos": "adv.",
+          "meaning": "此外；再者（替换 also）",
+          "example": "The product is affordable; furthermore, it is easy to use and durable.",
+          "exampleZh": "这款产品价格实惠；再者，它易于使用且经久耐用。"
+        },
+        {
+          "word": "consequently",
+          "phonetic": "/ˈkɒnsɪkwəntli/",
+          "pos": "adv.",
+          "meaning": "因此；结果（替换 so）",
+          "example": "He failed to prepare for the exam and consequently received a low grade.",
+          "exampleZh": "他没有为考试做准备，因此得了一个低分。"
+        },
+        {
+          "word": "undoubtedly",
+          "phonetic": "/ʌnˈdaʊtɪdli/",
+          "pos": "adv.",
+          "meaning": "无疑地；毫无疑问（替换 surely）",
+          "example": "Reading widely is undoubtedly one of the best ways to broaden the mind.",
+          "exampleZh": "广泛阅读无疑是开阔思维的最佳方式之一。"
+        },
+        {
+          "word": "advocate",
+          "phonetic": "/ˈædvəkeɪt/",
+          "pos": "v.",
+          "meaning": "提倡；主张（替换 support）",
+          "example": "Many experts advocate a healthier lifestyle to prevent chronic diseases.",
+          "exampleZh": "许多专家提倡更健康的生活方式以预防慢性疾病。"
+        },
+        {
+          "word": "illustrate",
+          "phonetic": "/ˈɪləstreɪt/",
+          "pos": "v.",
+          "meaning": "说明；阐明；举例（替换 show）",
+          "example": "The following example clearly illustrates the importance of teamwork.",
+          "exampleZh": "下面的例子清楚地说明了团队合作的重要性。"
+        },
+        {
+          "word": "attain",
+          "phonetic": "/əˈteɪn/",
+          "pos": "v.",
+          "meaning": "达到；获得；实现（替换 reach）",
+          "example": "With consistent effort, anyone can attain their long-term personal goals.",
+          "exampleZh": "只要坚持努力，任何人都能实现自己的长期个人目标。"
+        },
+        {
+          "word": "diminish",
+          "phonetic": "/dɪˈmɪnɪʃ/",
+          "pos": "v.",
+          "meaning": "减少；削弱；降低（替换 reduce）",
+          "example": "Wearing a mask can effectively diminish the risk of catching the virus.",
+          "exampleZh": "佩戴口罩可以有效降低感染病毒的风险。"
+        },
+        {
+          "word": "abundant",
+          "phonetic": "/əˈbʌndənt/",
+          "pos": "adj.",
+          "meaning": "丰富的；大量的（替换 plenty of）",
+          "example": "The region is rich in abundant natural resources and fertile farmland.",
+          "exampleZh": "该地区拥有丰富的自然资源和肥沃的农田。"
+        },
+        {
+          "word": "inevitable",
+          "phonetic": "/ɪnˈevɪtəbl/",
+          "pos": "adj.",
+          "meaning": "不可避免的；必然的",
+          "example": "As technology advances, changes in the job market seem entirely inevitable.",
+          "exampleZh": "随着技术的进步，就业市场的变化似乎是完全不可避免的。"
+        }
+      ]
+    }
+  ]
+}

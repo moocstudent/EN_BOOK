@@ -1,0 +1,419 @@
+{
+  "band": "cet",
+  "bandLabel": "四六级",
+  "bandLabelEn": "CET-4/6",
+  "topics": [
+    {
+      "id": "g1",
+      "title": "长难句分析",
+      "titleEn": "Analyzing Long & Complex Sentences",
+      "summary": "四六级阅读与翻译大量出现多重修饰、多个从句嵌套的长句；学会抓主干、剥修饰，是读懂文章和写出高级句子的基础。",
+      "sections": [
+        {
+          "heading": "方法",
+          "body": "拆解长难句的核心是「先找主干，再理修饰」。\n1) 划出谓语动词，定位真正的主语和宾语，得到「主—谓—宾/系—表」骨架。\n2) 把从句、分词短语、介词短语、插入语暂时括起来，先读骨架再读修饰。\n3) 注意连接词（that / which / when / because / although）和标点（逗号、破折号）往往是修饰成分的边界。"
+        },
+        {
+          "heading": "考点",
+          "body": "四六级长难句常见三类难点：\n1) 从句嵌套：定语从句中再套名词性从句，或状语从句叠加。\n2) 修饰后置：分词短语、介词短语、同位语紧跟名词造成「主谓被隔开」。\n3) 插入与倒装：作者插入解释成分（however, for example）或为强调而倒装，打乱正常语序。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "读懂结构后可反向用于写作：用一个主句承载核心信息，再用 which / when 引导的从句或分词短语补充细节，能把几个短句合并成一个信息密度高的复合句，提升书面语层次，但要保证主谓一致、修饰对象清楚，避免句子过长失控。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "The report, which was released by a team of economists who had studied the issue for years, warns that inflation may persist.",
+          "zh": "这份由一组研究该问题多年的经济学家发布的报告警告说，通货膨胀可能会持续。",
+          "note": "主干是 The report warns that...；中间两层定语从句作插入修饰，先跳读再回看。"
+        },
+        {
+          "en": "What surprised researchers most was that the participants who received the placebo also reported significant improvement.",
+          "zh": "最让研究者惊讶的是，接受安慰剂的受试者也报告了显著的改善。",
+          "note": "主语从句 What... + 表语从句 that...，骨架为「A was B」。"
+        },
+        {
+          "en": "Although the technology has improved dramatically, the cost of adopting it remains, for many small businesses, prohibitively high.",
+          "zh": "尽管这项技术已大幅改进，但对许多小企业而言，采用它的成本仍然高得令人却步。",
+          "note": "for many small businesses 是插入语，主干是 the cost remains high。"
+        },
+        {
+          "en": "Faced with mounting public pressure, the government announced measures designed to curb pollution in major cities.",
+          "zh": "面对日益增长的公众压力，政府宣布了旨在遏制大城市污染的措施。",
+          "note": "句首过去分词短语作状语，designed to 分词短语后置修饰 measures。"
+        }
+      ],
+      "tips": [
+        "读不懂先别逐词翻译，先用「谁 + 做什么」抓出主谓。",
+        "逗号、破折号、连接词常是修饰成分的起止边界。",
+        "遇到 that 先判断它是定语从句、同位语从句还是宾语从句，再决定怎么读。"
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "定语从句（考点）",
+      "titleEn": "Relative Clauses (Exam Focus)",
+      "summary": "定语从句修饰名词（先行词），四六级常考关系词的选择、限制性与非限制性的区别，以及「介词 + 关系代词」结构。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "关系词的选择取决于先行词与它在从句中的成分：\n1) 指人用 who（主格）/ whom（宾格）/ whose（所有格）；指物用 which；人物皆可且在从句作主宾时用 that。\n2) 关系副词：where（地点）、when（时间）、why（原因，先行词为 reason），代替「介词 + which」。\n3) 关系代词作宾语时可省略（限制性从句中）。"
+        },
+        {
+          "heading": "考点",
+          "body": "四六级高频考点：\n1) that 与 which 的区分：非限制性从句（逗号后）、介词后只能用 which，不能用 that。\n2) 「介词 + 关系代词」：in which = where，at which time，by which，结构正式，写作加分。\n3) whose 表所属，可指人也可指物（= of which）。\n4) 区分限制性（无逗号，删去影响意义）与非限制性（有逗号，补充说明）。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "用非限制性定语从句补充背景或评论，可让句子更连贯：用 which 指代整个前句（..., which suggests that...）是议论文常用的衔接句型。把两个简单句通过 who / which 合并，能避免重复、提升句式多样性。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students who manage their time well are more likely to succeed academically.",
+          "zh": "善于管理时间的学生在学业上更可能成功。",
+          "note": "限制性从句，无逗号，who 作从句主语不可省。"
+        },
+        {
+          "en": "The library, which was built a century ago, has recently been renovated.",
+          "zh": "这座建于一个世纪前的图书馆最近翻新了。",
+          "note": "非限制性从句用逗号，指物只能用 which，不能用 that。"
+        },
+        {
+          "en": "This is the village in which the famous poet spent his childhood.",
+          "zh": "这就是那位著名诗人度过童年的村庄。",
+          "note": "「介词 + which」= where，书面语正式，注意介词不能用 that 替换。"
+        },
+        {
+          "en": "He finished the project ahead of schedule, which greatly impressed his manager.",
+          "zh": "他提前完成了项目，这令他的经理印象深刻。",
+          "note": "which 指代整个前一句，是议论文常用的评论性衔接。"
+        },
+        {
+          "en": "We need a candidate whose experience matches the demands of the position.",
+          "zh": "我们需要一位经验与该职位要求相匹配的候选人。",
+          "note": "whose 表所属关系，可指人也可指物。"
+        }
+      ],
+      "tips": [
+        "逗号后、介词后一律不用 that，记住「非限定与介词只用 which/whom」。",
+        "判断关系词先看先行词指人指物，再看它在从句里作什么成分。",
+        "关系代词在限制性从句作宾语时可省略，作主语时不可省。"
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "名词性从句",
+      "titleEn": "Noun Clauses",
+      "summary": "名词性从句在句中充当主语、宾语、表语或同位语；四六级常考连接词选择、主语从句的 it 形式主语和宾语从句的语序。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "名词性从句按在句中的位置分四类：\n1) 主语从句：That he passed the exam surprised us.（常用 it 作形式主语：It surprised us that...）\n2) 宾语从句：I believe (that) she will come.\n3) 表语从句：The problem is that we lack funds.\n4) 同位语从句：The fact that he lied is undeniable.（解释前面的抽象名词）"
+        },
+        {
+          "heading": "结构",
+          "body": "引导词分三类：\n1) that：不充当成分、无词义，宾语从句中常省略。\n2) whether / if：表示「是否」，if 一般只用于宾语从句。\n3) 连接代词/副词：what, who, which, when, where, how, why，既引导从句又在从句中充当成分。\n注意：名词性从句一律用陈述语序（主 + 谓），不可用疑问语序。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "1) that 与同位语从句不可与定语从句混淆：同位语从句解释名词内容（the idea that...），定语从句修饰名词（the idea that he proposed）。\n2) whether 可接 or not、可作主语/表语/介词宾语，if 不能。\n3) 主语从句较长时优先用 it 形式主语，使句子重心后移，符合英语习惯。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is widely believed that early exposure to a second language benefits children.",
+          "zh": "人们普遍认为，及早接触第二语言对儿童有益。",
+          "note": "it 作形式主语，真正主语是 that 从句，写作高频句型。"
+        },
+        {
+          "en": "Whether the plan will succeed depends largely on adequate funding.",
+          "zh": "这项计划能否成功在很大程度上取决于资金是否充足。",
+          "note": "whether 引导主语从句表「是否」，此处不可换成 if。"
+        },
+        {
+          "en": "What matters most is not how much you earn but how wisely you spend.",
+          "zh": "最重要的不是你赚多少，而是你花得多明智。",
+          "note": "what 引导主语从句并作从句主语；从句一律用陈述语序。"
+        },
+        {
+          "en": "The fact that smoking harms health has been proven beyond doubt.",
+          "zh": "吸烟有害健康这一事实已被无可置疑地证明。",
+          "note": "that 引导同位语从句，解释 the fact 的具体内容。"
+        },
+        {
+          "en": "Could you tell me where the registration office is?",
+          "zh": "你能告诉我注册办公室在哪里吗？",
+          "note": "宾语从句用陈述语序 where the office is，不可写成 where is。"
+        }
+      ],
+      "tips": [
+        "宾语从句一律用陈述语序，这是中国学生最易错的点。",
+        "「是否」放句首或介词后用 whether，不用 if。",
+        "同位语从句 that 不作成分不可省；定语从句 that 作成分、修饰名词。"
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "状语从句与连接",
+      "titleEn": "Adverbial Clauses & Linking",
+      "summary": "状语从句表达时间、原因、条件、让步、目的、结果等逻辑关系；四六级写作的连贯性很大程度依赖准确的连接词。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "按逻辑关系分类常用连接词：\n时间：when, while, as, before, after, until, as soon as\n原因：because, since, as, now that\n条件：if, unless, as long as, provided that\n让步：although, though, even if, while, no matter how\n目的：so that, in order that\n结果：so...that, such...that"
+        },
+        {
+          "heading": "考点",
+          "body": "1) so...that 与 such...that：so + 形容词/副词，such + (a/an) + 名词。\n2) 让步从句：although 不与 but 连用（中文「虽然……但是」对应英文只用其一）。\n3) 时间/条件从句中用一般现在时表将来：I will call you when I arrive.\n4) no matter what / however 等引导让步状语从句，相当于 whatever / no matter how。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "议论文靠连接词建立逻辑：开头用 since/as 引出原因，论证中用 although...,（让步）+ 主句（转折）使观点更辩证，结尾用 so that 表目的或 therefore 表结果。恰当的过渡能直接提升「连贯与衔接」评分项。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Now that the deadline has been extended, we can revise the proposal more carefully.",
+          "zh": "既然截止日期已经延长，我们就可以更仔细地修改方案了。",
+          "note": "now that 表「既然」，引导原因状语从句。"
+        },
+        {
+          "en": "The lecture was so boring that half of the audience fell asleep.",
+          "zh": "这场讲座如此无聊，以至于一半听众都睡着了。",
+          "note": "so + 形容词 + that 引导结果；若用名词则改为 such a boring lecture that。"
+        },
+        {
+          "en": "Although the task seemed impossible at first, the team eventually accomplished it.",
+          "zh": "尽管这项任务起初看似不可能，团队最终还是完成了它。",
+          "note": "although 引导让步从句，主句不再用 but，这是中式英语常见错误。"
+        },
+        {
+          "en": "You will not pass the exam unless you study harder.",
+          "zh": "除非你更努力学习，否则你不会通过考试。",
+          "note": "unless = if...not，引导条件从句。"
+        },
+        {
+          "en": "We should take action now so that future generations can enjoy a cleaner environment.",
+          "zh": "我们现在就应该行动，以便子孙后代能享有更清洁的环境。",
+          "note": "so that 引导目的状语从句，议论文结尾常用。"
+        }
+      ],
+      "tips": [
+        "「虽然……但是」对应英文 although/though 与 but 只能用一个。",
+        "时间、条件状语从句中「主将从现」：从句用一般现在时代替将来时。",
+        "so 接形容词/副词，such 接名词，记住 so...that 与 such...that 的区别。"
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "非谓语动词",
+      "titleEn": "Non-finite Verbs",
+      "summary": "不定式、动名词、分词在句中充当主语、宾语、定语、状语等，是四六级阅读理解和写作高级表达的重要手段。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "三种非谓语形式及其基本功能：\n1) 不定式 to do：作主语、宾语、定语、目的状语，表将来或目的。\n2) 动名词 doing：作主语、宾语、表语，表抽象或习惯性动作；介词后只能跟动名词。\n3) 分词：现在分词 doing 表主动/进行，过去分词 done 表被动/完成；作定语、状语、补语。"
+        },
+        {
+          "heading": "考点",
+          "body": "1) 动词后接 to do 还是 doing：enjoy/avoid/finish/suggest + doing；want/decide/hope/manage + to do；remember/forget/stop 接两者意义不同。\n2) 分词作状语时逻辑主语须与主句主语一致，否则成「悬垂修饰」错误。\n3) 现在分词（主动、令人……）vs 过去分词（被动、感到……）：interesting / interested。\n4) 不定式的被动与完成：to be done, to have done。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "用分词短语或不定式短语作状语可替代从句，使句子更简洁紧凑：Compared with..., Given that..., Taking everything into account... 这类分词独立结构是议论文开头和过渡的高分表达。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Reading extensively is one of the most effective ways to improve your English.",
+          "zh": "广泛阅读是提高英语最有效的方法之一。",
+          "note": "动名词 Reading 作主语，表抽象动作。"
+        },
+        {
+          "en": "Compared with last year, the company's revenue has increased significantly.",
+          "zh": "与去年相比，公司的收入显著增长了。",
+          "note": "过去分词短语作状语，逻辑主语是 revenue，被「比较」故用被动 Compared。"
+        },
+        {
+          "en": "She remembered to lock the door, but forgot turning off the lights last night.",
+          "zh": "她记得要锁门，却忘了昨晚关灯这件事。",
+          "note": "remember to do 表「记得去做（未做）」，forget doing 表「忘了已做过的事」。"
+        },
+        {
+          "en": "Given the limited budget, the committee decided to postpone the project.",
+          "zh": "考虑到预算有限，委员会决定推迟该项目。",
+          "note": "Given 引导独立分词结构作状语，相当于 considering，写作加分。"
+        },
+        {
+          "en": "The students felt exhausted after taking the challenging exam.",
+          "zh": "学生们在参加完那场有难度的考试后感到筋疲力尽。",
+          "note": "exhausted（过去分词，感到累）vs challenging（现在分词，令人……）。"
+        }
+      ],
+      "tips": [
+        "分词作状语必须与主句主语逻辑一致，否则就是悬垂结构（中国学生高频错误）。",
+        "介词后跟动词一律用动名词 doing，如 be good at doing。",
+        "-ed 表「人感到」（interested），-ing 表「事物令人」（interesting）。"
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "虚拟语气",
+      "titleEn": "Subjunctive Mood",
+      "summary": "虚拟语气表达与事实相反的假设以及建议、要求、愿望等主观语气；四六级翻译与写作的「书面腔」常靠它体现。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "非真实条件句「时态退一格」：\n1) 与现在相反：If + 过去式（be 用 were），主句 would/could/might + 动词原形。\n2) 与过去相反：If + had done，主句 would/could/might + have done。\n3) 与将来相反：If + were to do / should do，主句 would + do。"
+        },
+        {
+          "heading": "用法",
+          "body": "其他常考虚拟结构：\n1) wish / if only + 过去式（对现在的遗憾）/ had done（对过去的遗憾）。\n2) would rather + 过去式（宁愿对方做某事）。\n3) as if / as though + 虚拟时态（仿佛……，但事实并非如此）。\n4) It is (high) time that + 过去式（早该……了）。"
+        },
+        {
+          "heading": "考点",
+          "body": "建议要求类「(should) + 动词原形」：在 suggest, demand, insist, require, recommend, propose 等动词以及 It is necessary/important/essential that... 句型的从句中，谓语用动词原形（should 常省略），不随时态、人称变化。注意 suggest 表「暗示、表明」时用陈述语气。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "If I were in your position, I would seize this opportunity without hesitation.",
+          "zh": "如果我处在你的位置，我会毫不犹豫地抓住这个机会。",
+          "note": "与现在事实相反；be 动词一律用 were。"
+        },
+        {
+          "en": "Had he taken the doctor's advice, he would not have suffered so much.",
+          "zh": "假如他当初听了医生的建议，就不会受这么多苦了。",
+          "note": "与过去相反；省略 if 把 had 提前构成倒装条件句。"
+        },
+        {
+          "en": "I wish I had spent more time preparing for the interview.",
+          "zh": "我真希望当初花更多时间准备面试。",
+          "note": "wish 对过去的遗憾用 had done。"
+        },
+        {
+          "en": "The teacher recommended that every student submit the assignment on time.",
+          "zh": "老师建议每位学生按时提交作业。",
+          "note": "recommend 引导的从句用 (should) submit，省略 should，动词用原形。"
+        },
+        {
+          "en": "It is high time that the authorities took measures to ease traffic congestion.",
+          "zh": "有关部门早该采取措施缓解交通拥堵了。",
+          "note": "It is high time that + 过去式，表示「早就该」。"
+        }
+      ],
+      "tips": [
+        "判断虚拟先问「与事实相反吗」，相反就整体把时态退后一格。",
+        "建议、要求、命令类从句用动词原形，记口诀「一坚持、二命令、三建议、四要求」。",
+        "省略 if 时把 had / were / should 提到句首构成倒装，正式且加分。"
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "写作高分句型",
+      "titleEn": "High-score Writing Sentence Patterns",
+      "summary": "掌握一批结构稳定、可灵活套用的高级句型，能在四六级作文中快速提升句式多样性与语言档次。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "常用高分框架：\n1) 强调句：It is + 被强调部分 + that...\n2) 形式主语：It is + adj. + for sb. to do / that...\n3) 比较与递进：not only...but also...; The more..., the more...\n4) 让步辩证：While it is true that..., we cannot deny that...\n5) 倒装：Only by doing... can we...; Not until... did..."
+        },
+        {
+          "heading": "写作应用",
+          "body": "议论文三段式可分别配套句型：\n开头：There is no denying that... / It is widely acknowledged that...\n主体：On the one hand...; On the other hand...; What's more,...\n结尾：In conclusion, only when... can we... / It is high time that we took action."
+        },
+        {
+          "heading": "注意事项",
+          "body": "高分句型贵在「用对、用准」，不在堆砌：\n1) 倒装句助动词与主语顺序不能错（Only then did I realize...）。\n2) 强调句去掉 It is...that 后句子仍完整。\n3) 同一篇作文不要重复使用同一套句型，注意搭配与语境自然。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is the joint efforts of all members that make a team successful.",
+          "zh": "正是全体成员的共同努力使一个团队走向成功。",
+          "note": "强调句 It is...that...，强调主语 the joint efforts。"
+        },
+        {
+          "en": "The more we invest in education, the brighter our future will be.",
+          "zh": "我们对教育投入越多，未来就越光明。",
+          "note": "The more..., the more... 比较递进结构，逻辑清晰且高级。"
+        },
+        {
+          "en": "Only by working together can we tackle the challenges of climate change.",
+          "zh": "只有齐心协力，我们才能应对气候变化的挑战。",
+          "note": "Only + 状语置于句首，主句部分倒装 can we。"
+        },
+        {
+          "en": "While it is true that technology brings convenience, we cannot ignore its drawbacks.",
+          "zh": "虽然科技确实带来了便利，但我们不能忽视它的弊端。",
+          "note": "While 引导让步使论证更辩证，是议论文加分句型。"
+        },
+        {
+          "en": "There is no denying that a positive attitude plays a vital role in success.",
+          "zh": "不可否认，积极的态度在成功中起着至关重要的作用。",
+          "note": "There is no denying that... 万能开头句，引出观点。"
+        }
+      ],
+      "tips": [
+        "倒装句把助动词提到主语前，注意主谓顺序不要写成陈述语序。",
+        "句型重在用准、用自然，切忌一篇作文反复套同一句型。",
+        "背 3-4 个万能开头和结尾句，考场上能稳定拿到句式分。"
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "汉译英技巧",
+      "titleEn": "Chinese-to-English Translation Skills",
+      "summary": "四六级段落翻译考查把中文（常涉及文化、经济、社会）准确流畅地译为英文；核心是理清主干、转换词性、调整语序。",
+      "sections": [
+        {
+          "heading": "方法",
+          "body": "翻译四步：\n1) 通读整句，找出中文的主语、谓语，确定英文主干。\n2) 把修饰成分（定语、状语）转为从句、分词或介词短语挂在主干上。\n3) 处理无主句、流水句：增补主语或用被动语态 / There be 句型。\n4) 检查时态、单复数、冠词、主谓一致。"
+        },
+        {
+          "heading": "考点",
+          "body": "常用转换技巧：\n1) 词性转换：中文动词多，英文名词、介词多，如「发展迅速」→ rapid development。\n2) 增译与减译：补出英文必需的连词、代词、冠词，省去中文重复。\n3) 语态转换：中文「据说/人们认为」译为 It is said/believed that...。\n4) 拆分与合并：中文长流水句拆成几个英文句，或用从句合并。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "1) 文化专有名词先意译再适当解释（如 the Spring Festival, the most important traditional Chinese holiday）。\n2) 不必字字对应，求「意通」而非「形似」。\n3) 优先用有把握的简单正确句，避免生造长句出现语法错误，宁稳勿险。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "China's economy has developed rapidly over the past few decades.",
+          "zh": "过去几十年里，中国经济发展迅速。",
+          "note": "「发展迅速」用 has developed rapidly，注意现在完成时与时间状语搭配。"
+        },
+        {
+          "en": "It is said that the Great Wall can be seen from space.",
+          "zh": "据说长城从太空都能看见。",
+          "note": "中文无主句「据说」译为 It is said that...，语态转换。"
+        },
+        {
+          "en": "The Spring Festival, the most important traditional Chinese holiday, falls in late January or early February.",
+          "zh": "春节是中国最重要的传统节日，通常在一月底或二月初。",
+          "note": "文化名词用同位语补充解释；「在……」用 fall in 表时间。"
+        },
+        {
+          "en": "With the rapid development of the Internet, people's lifestyles have changed greatly.",
+          "zh": "随着互联网的迅速发展，人们的生活方式发生了巨大变化。",
+          "note": "「随着……」用 With + 名词短语，中文动词「发展」转为英文名词 development。"
+        },
+        {
+          "en": "More and more people are beginning to realize the importance of protecting the environment.",
+          "zh": "越来越多的人开始意识到保护环境的重要性。",
+          "note": "「越来越多」用 more and more；「保护环境」动名词短语作宾语。"
+        }
+      ],
+      "tips": [
+        "先定主干再挂修饰，中文流水句别一逗到底译成英文长句。",
+        "中文动词扎堆时把次要动词转成名词、介词或非谓语，更地道。",
+        "无主句、「据说/认为」类优先用被动或 It is...that 句型补主语。",
+        "求意通不求形似，宁可用简单句也别写错误的复杂句。"
+      ]
+    }
+  ]
+}

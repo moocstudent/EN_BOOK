@@ -1,0 +1,383 @@
+{
+  "band": "ielts",
+  "bandLabel": "雅思",
+  "bandLabelEn": "IELTS",
+  "topics": [
+    {
+      "id": "g1",
+      "title": "主从复合句",
+      "titleEn": "Complex Sentences",
+      "summary": "考查能否用从句把多个想法逻辑地组合进一句，是 Grammatical Range & Accuracy 拿 7 分以上的核心，写作中用来承载论点与解释。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "复合句 = 一个主句（independent clause）+ 一个或多个从句（subordinate clause），从句由从属连词引导。\n常见三类从句：\n· 状语从句：because / although / when / if / as / since / while\n· 名词从句：that / whether / what / why（作主语、宾语、表语）\n· 定语从句：who / which / that（修饰名词，见 g2）\n公式：Although + 让步, 主句 + because + 原因。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "雅思 Task 2 段落里，避免连写一串简单句。把背景信息放从句、核心观点放主句，体现 sentence variety。\n开头让步或时间从句可提升正式度：\n· While many believe X, the evidence suggests Y.\n· When governments invest in education, long-term productivity rises."
+        },
+        {
+          "heading": "考点",
+          "body": "评分关注：①是否准确使用多种从句（range）②标点与连词不重复（如不能 Although...but）③主谓一致与时态贯通。\n一句里从句别堆太多（一般主句 + 1～2 个从句最稳），过度嵌套会降低 accuracy。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Although urbanisation brings economic benefits, it often places severe pressure on public infrastructure.",
+          "zh": "尽管城市化带来经济效益，它往往给公共基础设施带来巨大压力。",
+          "note": "让步状语从句 Although + 主句，体现对比，是 Task 2 高分句型。"
+        },
+        {
+          "en": "Many researchers argue that children who are exposed to a second language early develop stronger cognitive flexibility.",
+          "zh": "许多研究者认为，早期接触第二语言的儿童会发展出更强的认知灵活性。",
+          "note": "名词从句 that... 内嵌定语从句 who...，一句承载完整论点。"
+        },
+        {
+          "en": "When public transport is affordable and reliable, fewer people choose to commute by car.",
+          "zh": "当公共交通既便宜又可靠时，选择开车通勤的人会减少。",
+          "note": "时间/条件式状语从句作开头，逻辑清晰且正式。"
+        },
+        {
+          "en": "It is widely accepted that economic growth alone cannot guarantee social well-being.",
+          "zh": "人们普遍认为，仅靠经济增长无法保证社会福祉。",
+          "note": "It is...that... 形式主语 + 名词从句，学术开篇常用。"
+        }
+      ],
+      "tips": [
+        "一个连词只用一次：有了 Although 就不要再加 but。",
+        "主句必须能独立成句，从句不能单独成句。",
+        "求范围而非数量：一段里混用状语 / 名词 / 定语从句比堆同一种更得分。"
+      ]
+    },
+    {
+      "id": "g2",
+      "title": "定语从句（精准描述）",
+      "titleEn": "Relative Clauses for Precise Description",
+      "summary": "考查用 who/which/that/whose/where/when 给名词补充信息，让描述更精准，避免重复，是提升信息密度与正式度的关键。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "关系代词选择：\n· who/whom 指人，which 指物，that 人物皆可（限定性从句）\n· whose 表所属（人或物）\n· where 指地点，when 指时间，why 指原因\n限定性（无逗号）= 限定范围、不可省；非限定性（有逗号）= 补充说明、可删去。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "用 which 引导非限定性从句，对前面整句作评价或补充，是雅思高分常用手法：\n· Renewable energy is becoming cheaper, which encourages wider adoption.\n介词 + 关系代词（正式书面）：\n· the rate at which / the extent to which / a situation in which。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①that 不能用于非限定性从句（逗号后），也不能跟在介词后（不能 in that 指物）。\n②非限定性从句必须有逗号，否则改变含义。\n③关系代词作宾语时可省略（限定性）：the book (that) I read，但作主语不可省。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Students who are given autonomy over their learning tend to be more motivated.",
+          "zh": "被赋予学习自主权的学生往往更有动力。",
+          "note": "限定性从句限定 students 范围，无逗号，who 作主语不可省。"
+        },
+        {
+          "en": "Air pollution, which is largely caused by traffic emissions, has become a major urban health concern.",
+          "zh": "空气污染（主要由交通排放造成）已成为重大的城市健康问题。",
+          "note": "非限定性从句加逗号补充信息，which 不可换成 that。"
+        },
+        {
+          "en": "This is a problem the extent to which is often underestimated by policymakers.",
+          "zh": "这是一个其严重程度常被决策者低估的问题。",
+          "note": "the extent to which 介词+关系代词，正式学术结构。"
+        },
+        {
+          "en": "Cities where green spaces are scarce often report higher levels of stress among residents.",
+          "zh": "绿地稀缺的城市往往报告居民压力水平更高。",
+          "note": "where 引导地点从句，等于 in which，比 in which 更自然。"
+        }
+      ],
+      "tips": [
+        "逗号决定意义：有逗号=补充可删，无逗号=限定不可删。",
+        "that 三不用：不用于逗号后、不接在介词后、不指代整个句子。",
+        "用 whose / where / the extent to which 等替代笨拙的重复名词。"
+      ]
+    },
+    {
+      "id": "g3",
+      "title": "条件句与假设",
+      "titleEn": "Conditionals & Hypotheticals",
+      "summary": "考查用 if 及虚拟语气表达真实条件、假设结果与建议，是讨论政策影响、提建议、做让步推理时的高分语法。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "四类条件句：\n· 零条件（普遍真理）：If + 一般现在, 一般现在\n· 一条件（真实可能）：If + 一般现在, will + 动词原形\n· 二条件（与现在/将来相反的假设）：If + 一般过去, would + 动词原形\n· 三条件（与过去相反）：If + had done, would have done。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "提建议/谈影响多用二条件，显得审慎客观：\n· If governments invested more in renewables, emissions would fall significantly.\n正式替换 if 的高分写法：\n· Should the policy be implemented...（倒装）\n· Were it not for subsidies...（倒装）\n· Unless / Provided that / As long as 引导条件。"
+        },
+        {
+          "heading": "考点",
+          "body": "①时态搭配不能错位：if 从句不用 will（不说 If it will rain）。\n②二、三条件可混合：If they had planned better (过去), the city would be less congested now (现在)。\n③倒装去掉 if 提升正式度：Had the warning been issued earlier, lives could have been saved。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "If cities were designed for pedestrians rather than cars, urban life would become far healthier.",
+          "zh": "如果城市为行人而非汽车设计，城市生活会健康得多。",
+          "note": "二条件表与现实相反的假设，提建议时显得客观。"
+        },
+        {
+          "en": "Unless stricter regulations are introduced, plastic waste will continue to rise.",
+          "zh": "除非引入更严格的法规，否则塑料垃圾将持续增加。",
+          "note": "Unless = if...not，引导真实条件，简洁有力。"
+        },
+        {
+          "en": "Had the government acted sooner, the economic damage could have been avoided.",
+          "zh": "如果政府更早采取行动，本可避免这场经济损失。",
+          "note": "三条件倒装（省略 if），正式且高分。"
+        },
+        {
+          "en": "Provided that adequate funding is secured, the project can be completed within two years.",
+          "zh": "只要获得充足资金，该项目可在两年内完成。",
+          "note": "Provided that 引导条件，比 if 更正式。"
+        }
+      ],
+      "tips": [
+        "口诀：现在真实用 will，假设相反用 would。",
+        "if 从句里不用 will / would，只在主句用。",
+        "倒装 (Had / Were / Should...) 可去掉 if，立刻提升正式度。"
+      ]
+    },
+    {
+      "id": "g4",
+      "title": "比较与对比结构",
+      "titleEn": "Comparison & Contrast Structures",
+      "summary": "考查比较级/最高级及对比连接词的精准使用，尤其在 Task 1 描述数据、Task 2 权衡观点时不可或缺。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "比较级：more + 形容词 + than / -er than；最高级：the most / the -est。\n程度修饰（Task 1 必备）：far / significantly / considerably / slightly / marginally + 比较级。\n等同与倍数：as...as / not as...as / twice as many as / three times higher than。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "对比连接词分两类：\n· 句内对比：whereas / while（连接两个分句）\n· 句间转折：However / In contrast / On the other hand / By comparison（句首加逗号）\nTask 1 表数据差距：\n· Sales in Asia were significantly higher than those in Europe.\n· The figure for men was roughly double that for women。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①避免重复名词，用 that / those 代替：the rate for A was higher than that for B。\n②whereas/while 接完整分句，不接名词；However 后加逗号、单独成句。\n③the + 比较级..., the + 比较级...（越...越...）：The higher the income, the greater the spending。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Online sales rose sharply, whereas in-store purchases declined steadily over the same period.",
+          "zh": "线上销售大幅上升，而同期实体店购买稳步下降。",
+          "note": "whereas 句内对比，连接两个完整分句，Task 1 利器。"
+        },
+        {
+          "en": "The unemployment rate in 2020 was significantly higher than that in 2010.",
+          "zh": "2020 年的失业率显著高于 2010 年。",
+          "note": "significantly 修饰比较级 + that 代替 rate，避免重复。"
+        },
+        {
+          "en": "The more people rely on cars, the worse urban air quality tends to become.",
+          "zh": "人们越依赖汽车，城市空气质量往往越差。",
+          "note": "the + 比较级..., the + 比较级... 表正相关，高分句型。"
+        },
+        {
+          "en": "Spending on healthcare was roughly twice as high as spending on education.",
+          "zh": "医疗支出大约是教育支出的两倍。",
+          "note": "twice as...as 表倍数，描述数据对比常用。"
+        }
+      ],
+      "tips": [
+        "than 后用 that / those 替代重复名词，体现 Lexical Resource。",
+        "区分：whereas/while 连分句；however 句首加逗号独立。",
+        "Task 1 用 significantly / slightly 等量化差距，比单说 higher 更专业。"
+      ]
+    },
+    {
+      "id": "g5",
+      "title": "因果与让步",
+      "titleEn": "Cause–Effect & Concession",
+      "summary": "考查表达原因、结果与让步的多样手段，是 Task 2 论证逻辑（为什么 / 导致什么 / 尽管如此）的骨架。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "因果三种形态：\n· 连词接分句：because / since / as（原因）；so / so...that（结果）\n· 连接副词接句子：Therefore / Consequently / As a result / Thus（句首加逗号）\n· 介词短语接名词：due to / owing to / because of / as a result of + 名词。\n让步：although / even though / despite / in spite of / while。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "让步让论证更平衡（concede then refute），是高分议论文常见结构：\n· Although technology saves time, it can also reduce face-to-face interaction.\n表因果链的高分动词：lead to / result in / contribute to / give rise to / stem from。\n· Rapid urbanisation has given rise to a range of social problems。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①despite / in spite of 后接名词或动名词，不接句子（不说 despite it rained，应 despite the rain）。\n②although 后接完整分句，不接名词。\n③because of + 名词；because + 句子，二者别混。\n④Therefore / Consequently 是副词，不能像连词那样连接两个分句（需用句号或分号隔开）。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Owing to rising sea levels, many coastal cities will face increased flooding risks.",
+          "zh": "由于海平面上升，许多沿海城市将面临更高的洪涝风险。",
+          "note": "Owing to + 名词表原因，正式开头，相当于 because of。"
+        },
+        {
+          "en": "Heavy reliance on fossil fuels has contributed to a sharp rise in carbon emissions.",
+          "zh": "对化石燃料的严重依赖导致碳排放急剧上升。",
+          "note": "contribute to 是高分因果动词，比 cause 更地道学术。"
+        },
+        {
+          "en": "Despite the obvious benefits of automation, many workers fear losing their jobs.",
+          "zh": "尽管自动化有明显好处，许多工人仍担心失业。",
+          "note": "Despite + 名词短语让步，注意不接句子。"
+        },
+        {
+          "en": "The policy reduced traffic congestion; consequently, air quality in the city improved.",
+          "zh": "该政策减少了交通拥堵，因此城市空气质量得到改善。",
+          "note": "consequently 是连接副词，前面用分号隔开两个独立句。"
+        }
+      ],
+      "tips": [
+        "记区别：despite/because of + 名词；although/because + 句子。",
+        "Therefore / Consequently 不是连词，别用它连接两句，要用句号或分号。",
+        "用 lead to / result in / give rise to 替换泛滥的 cause，提升词汇分。"
+      ]
+    },
+    {
+      "id": "g6",
+      "title": "被动语态（学术语体）",
+      "titleEn": "Passive Voice (Academic)",
+      "summary": "考查在客观、强调结果或行为对象时使用被动，营造学术正式语体，但需避免滥用导致句子笨重。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "被动 = be + 过去分词（+ by 施动者，常省略）。\n各时态：is built / was built / has been built / will be built / is being built / can be done。\n非谓语被动：having been completed / to be discussed。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "三种典型用途：\n①施动者未知或不重要：The samples were collected over six months.\n②强调动作对象/结果：A new policy has been introduced to reduce emissions.\n③学术客观、淡化个人：It is often argued that... / It has been suggested that...（避免 I think）。\nTask 1 流程图几乎全程被动：The raw materials are first crushed and then heated。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①别滥用：通篇被动会显得僵硬，主动被动应交替。\n②不及物动词无被动（happen / occur / rise 不能变被动）。\n③It is said/believed/expected that... 是客观陈述高分套路。\n④by 短语只在施动者重要时保留，否则省略更简洁。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is widely believed that early intervention can significantly improve learning outcomes.",
+          "zh": "人们普遍认为，早期干预能显著改善学习效果。",
+          "note": "It is believed that... 客观陈述，替代 People think，更学术。"
+        },
+        {
+          "en": "Stricter regulations have been introduced to curb air pollution in major cities.",
+          "zh": "为遏制大城市的空气污染，已经出台了更严格的法规。",
+          "note": "完成时被动 have been introduced，强调结果而非施动者。"
+        },
+        {
+          "en": "In the first stage, the harvested grain is cleaned and then transported to the mill.",
+          "zh": "第一阶段，收割的谷物经过清洗后被运往磨坊。",
+          "note": "Task 1 流程图典型被动，描述工序的标准语体。"
+        },
+        {
+          "en": "This phenomenon can be attributed to a combination of social and economic factors.",
+          "zh": "这一现象可归因于社会与经济因素的共同作用。",
+          "note": "be attributed to 是被动高分表达，等于把原因归于。"
+        }
+      ],
+      "tips": [
+        "主动被动交替使用，全被动反而扣 accuracy 印象分。",
+        "rise / happen / occur 等不及物动词没有被动形式。",
+        "用 It is argued / believed / expected that... 取代 I think，立显客观。"
+      ]
+    },
+    {
+      "id": "g7",
+      "title": "同义替换与改写",
+      "titleEn": "Paraphrasing & Synonyms",
+      "summary": "考查不照抄题目、用同义词与句式变换重述信息的能力，直接影响 Lexical Resource 与 Task Response，是审题首段的必备技能。",
+      "sections": [
+        {
+          "heading": "用法",
+          "body": "改写三层手段（综合用最有效）：\n①词汇替换：找近义词 / 上义词（children → youngsters / the young；important → crucial / vital）。\n②词性转换：grow (v.) → growth (n.)；develop → development。\n③句式转换：主动↔被动、肯定↔双重否定、从句↔短语。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "雅思引言段必须改写题目，不能照抄。流程：抓关键词 → 换同义 → 调语序/句式。\n· 题目：Some people think the government should pay for healthcare.\n· 改写：It is sometimes argued that the cost of medical care ought to be covered by the state.\nTask 1 复述图表标题同理：increase → rise / climb / surge；amount → figure / quantity。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①同义词要符合搭配与语域：strong tea 不能说 powerful tea。\n②别为换而换：生僻词用错比简单词更扣分，准确＞花哨。\n③专有名词、技术术语（如 Wi-Fi、CO2、country 名）通常不改。\n④改写要保意义不变，不能扭曲题目原意。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "It is sometimes argued that the cost of medical care ought to be funded by the state.",
+          "zh": "原句：Some people think the government should pay for healthcare.",
+          "note": "原句 → 高分改写：think→argue、government→state、pay for→fund，并转被动。"
+        },
+        {
+          "en": "The proportion of young people pursuing higher education has risen markedly in recent decades.",
+          "zh": "原句：More and more young people are going to university nowadays.",
+          "note": "more and more→risen markedly、go to university→pursuing higher education，词性+句式齐换。"
+        },
+        {
+          "en": "Urban congestion can largely be attributed to the growing number of private vehicles.",
+          "zh": "原句：Cities are crowded mainly because there are more and more cars.",
+          "note": "因果改写：because→be attributed to，cars→private vehicles，更学术。"
+        },
+        {
+          "en": "A significant drawback of remote work is the erosion of team cohesion.",
+          "zh": "原句：One big problem with working from home is that teams feel less connected.",
+          "note": "口语→学术：big problem→significant drawback、feel less connected→erosion of cohesion。"
+        }
+      ],
+      "tips": [
+        "改写靠三招组合：换词 + 变词性 + 调句式，单换同义词不够。",
+        "搭配优先于花哨：用错近义词比用对常用词更扣分。",
+        "专有名词 / 数字 / 技术术语保留不改。"
+      ]
+    },
+    {
+      "id": "g8",
+      "title": "衔接与连贯",
+      "titleEn": "Coherence & Cohesion",
+      "summary": "直接对应评分项 Coherence & Cohesion，考查段落组织、逻辑连接词与指代衔接，让文章读起来顺畅、有条理。",
+      "sections": [
+        {
+          "heading": "结构",
+          "body": "三层衔接手段：\n①逻辑连接词（signposting）：Firstly / Moreover / However / In conclusion。\n②指代衔接：this / these / such / it / the former / the latter 回指前文。\n③同义/上义词替换避免重复，加词汇衔接。\n段落层面：每段一个 topic sentence（主旨句）+ 支持论据 + 例证。"
+        },
+        {
+          "heading": "写作应用",
+          "body": "连接词按功能分类备用：\n· 递进：Furthermore / Moreover / In addition\n· 转折：However / Nevertheless / On the contrary\n· 举例：For instance / To illustrate / Such as\n· 总结：In conclusion / To sum up / Overall\n指代衔接示例：Many cities face congestion. This problem is worsened by poor planning.（this problem 回指上句）。"
+        },
+        {
+          "heading": "注意事项",
+          "body": "①连接词别过量：每句开头都堆 Moreover/However 反而机械，扣 CC 分。\n②this/it 指代必须清晰，避免歧义（必要时 this + 名词）。\n③段落结构清晰：一段一中心，主旨句先行。\n④口语中衔接更口语化：well / you know / what's more / on top of that。"
+        }
+      ],
+      "examples": [
+        {
+          "en": "Firstly, remote work reduces commuting time. Moreover, it allows employees greater flexibility.",
+          "zh": "首先，远程工作减少通勤时间；此外，它给员工更大的灵活性。",
+          "note": "Firstly / Moreover 标示论点递进，结构清晰。"
+        },
+        {
+          "en": "Air pollution has worsened in recent years. This trend is largely driven by industrial expansion.",
+          "zh": "近年来空气污染加剧，这一趋势主要由工业扩张推动。",
+          "note": "This trend 指代衔接回指前句，避免重复且连贯。"
+        },
+        {
+          "en": "Public transport eases congestion; however, it requires substantial government investment.",
+          "zh": "公共交通缓解拥堵，然而它需要政府的大量投资。",
+          "note": "however 转折衔接，前用分号连接两个独立句。"
+        },
+        {
+          "en": "Overall, while online education offers flexibility, it cannot fully replace classroom interaction.",
+          "zh": "总体而言，虽然在线教育提供灵活性，但它无法完全取代课堂互动。",
+          "note": "Overall 总结收尾 + while 让步，结论段常用衔接。"
+        }
+      ],
+      "tips": [
+        "连接词宁缺毋滥：句句 Moreover 反而显机械，按逻辑需要才用。",
+        "用 this / such / the latter 等指代回指，是高分衔接而非只靠连接词。",
+        "每段一个主旨句先行，一段只讲一个中心。"
+      ]
+    }
+  ]
+}

@@ -379,11 +379,13 @@
           '<li><strong>词汇单词卡</strong>：按主题单元整理高频词，支持卡片翻转、乱序复习、列表速览。</li>' +
           '<li><strong>语法讲解</strong>：每个语法专题含用法说明、结构、例句和易错点提示。</li>' +
         '</ul>' +
-        '<h2>学段分册</h2>' +
+        '<h2>分册</h2>' +
         '<ul>' +
           '<li>📗 初中英语 · Junior High（基础）</li>' +
           '<li>📘 高中英语 · Senior High（进阶）</li>' +
           '<li>📕 大学英语 · College / CET（拓展）</li>' +
+          '<li>📙 四六级 · CET-4/6（应试：高频词 + 写作/翻译）</li>' +
+          '<li>📓 雅思 · IELTS（应试：话题词汇 + 写作高分句法）</li>' +
         '</ul>' +
         '<h2>如何添加内容</h2>' +
         '<p>所有内容都是可编辑的 JSON 文件，位于 <code>content/vocab/</code> 与 <code>content/grammar/</code>。按现有格式增删条目即可，无需重新构建。</p>' +
